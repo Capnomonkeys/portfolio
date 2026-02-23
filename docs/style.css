@@ -4,6 +4,9 @@ body {
     background: Plum;
     font-family: Comic-sans, Arial, Helvetica, sans-serif;
 }
+body#projects{
+    
+}
 
 div.side-by-side {
     display: flex;
