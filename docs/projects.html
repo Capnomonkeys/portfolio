@@ -1,52 +1,44 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
-    <!-- Try opening this file on your local computer in a web browser (Firefox, Chrome, etc). 
-     * On Windows, go to the browser and type control + o and browse to find this file to open it.
-     * On Mac, go to the browser and type command + o and browse to find this file to open it. 
-     Look for the text in the <title> element in the tab above the browser search bar. Do you see it? 
-    -->
     <head>
-        <!-- What's in the <head> element is a "meta" area not for display. 
-            It holds important information about the website's contents.
-            The text inside the <title> element does show in the top tab of a web browser. 
-             The <head> is where we will include info about styling the site, too. -->
         <title>Projects</title>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
-        <!-- Here is a place where we can add a little styling code called CSS to this page. 
-            I used it to apply a background color to the body element.
-        -->
         <link rel="stylesheet" type="text/css" href="style.css" />
     </head>
     <body id="projects">
-        <!-- CONTENT FOR DISPLAY. The <body> element holds the content we see in the display window on the web browser.-->
-        <h1>Gallery</h1>
+        <h1>Projects</h1>
         <nav>
-            <a href="index.html">Home</a> | <a href="about.html">About</a> | <a href="gallery.html"
-                >Gallery</a> | <a href="projects.html">Projects </a>
+            <a href="index.html">Index</a> | <a href="about.html">About</a> | <a href="projects.html">Projects </a>| <a href="resume.html">Resume </a>
         </nav>
         <p>This page contains Lily's prior projects in DIGIT.</p>
         <p>--------------------------------------------------------------</p>
-        <img src="images/alarm.JPG" />
-        <p>For Art 168 I made a short video about waking up and having a perfect "morning". The link
-            can be found <a href="https://www.youtube.com/watch?v=y4Y1I6e0YKM">here</a>. </p>
         
-        <img src="images/deardatapic.jpeg" />
+        <figure class="center-figure"><h2>A Good "Morning"</h2>
+        <!--<img src="images/alarm.JPG" />-->
+<!--    Unsure why this doesn't work, it embeds but the video does not load    -->
+        <div class="iframe-container">
+            <iframe width="600" height="450" src="https://www.youtube.com/embed/y4Y1I6e0YKM" title="A Good &quot;Morning&quot;" allow="accelerometer; autoplay; 
+            clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+        </div>
+
+        <p>For Art 168 I made a short video about waking up and having a perfect "morning". It was inspired by the types of uneventful days
+            you may have on a weekend or holiday, where the simple act of sleeping in and doing something mindless is all you need.
+            The link can be found <a href="https://www.youtube.com/watch?v=y4Y1I6e0YKM">here</a>. </p></figure>
+        
+        <figure class="center-figure"><h2>Dear Data</h2>
+        <div class="iframe-container"><img src="images/deardatapic.jpeg" /></div>
         <p>For DIGIT 100, I was tasked with creating a week's worth of data based upon the Dear Data
             project. I chose to record what materials I walked upon, as well as their conditions
-            based on the weather.</p>
+            based on the weather. You can see what days I went out, what days I stayed in, and how conditions changed as weather conditions and groundskeepers battled
+        over control of the pavement and sidewalk.</p>
+        </figure>
         <div class="side-by-side">
             <p>Go back to my <a href="index.html">main page</a>.</p>
-            <!--<figure>
-                <img src="images/P2_Giant_Breadbug.jpg" />
-                <figcaption>A Giant Breadbug from Pikmin 2. If you're seeing this, Lily forgot to remove it. You may have also uncommented this. I see you.</figcaption>
-            </figure>-->
-
         </div>
-        <footer class="featureBlock">
+<!--        <footer class="featureBlock">
             <p>This was made off the base of Dr. B's example code, and thus it's inherently not all
                 my own. If this is a problem that should be rectified, please let me know.</p>
-        </footer>
+        </footer>-->
     </body>
 </html>

@@ -3,15 +3,33 @@ body {
     /*background:papayaWhip*/
     background: Plum;
     font-family: Comic-sans, Arial, Helvetica, sans-serif;
+    font-size: large;
+    margin-left: 5em;
+    margin-right: 5em;
 }
 body#resume{
     border: 15px purple;
 }
 
-
+figure{
+    background-color: #BC718F;
+    
+}
+figure.morning{
+    width: 700px;
+}
+figure.center-figure{
+    display: block; 
+  margin-left: auto; 
+  margin-right: auto;
+  width: 75%; 
+}
 
 div.side-by-side {
     display: flex;
+}
+div.iframe-container{
+    text-align: center;
 }
 
 img {
@@ -19,7 +37,27 @@ img {
     max-width: 500px;
 }
 
+ul.resume{
+    list-style-type:circle;
+    border-style:groove;
+    border-color:#BC718F;
+    border-width:6px;
+}
+
 .featureBlock {
     background-color:floralwhite;
     font-size: smaller;
+}
+
+img.defnotfursona{
+    max-width: 15%;
+    height:auto;
+}
+
+nav{
+    background:#abd3d7;
+    font-weight:bold;
+    font-size:30px;
+    padding:1em;
+    
 }
