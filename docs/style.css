@@ -12,8 +12,11 @@ body#resume{
 }
 
 figure{
-    background-color: #BC718F;
     
+    
+}
+figure.darkened{
+    background-color: #BC718F;
 }
 figure.morning{
     width: 700px;
@@ -49,9 +52,13 @@ ul.resume{
     font-size: smaller;
 }
 
-img.defnotfursona{
+img.scale15{
     max-width: 15%;
     height:auto;
+}
+img.scale200px{
+    height:200px;
+    width:auto;
 }
 
 nav{
