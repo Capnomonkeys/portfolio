@@ -1,6 +1,4 @@
 body {
-
-    /*background:papayaWhip*/
     background: Plum;
     font-family: Comic-sans, Arial, Helvetica, sans-serif;
     font-size: large;
@@ -11,8 +9,8 @@ body#resume{
     border: 15px purple;
 }
 
+
 figure{
-    
     
 }
 figure.darkened{
@@ -27,13 +25,19 @@ figure.center-figure{
   margin-right: auto;
   width: 75%; 
 }
+figure.center-items{
+    align-items: center;
+}
+
 
 div.side-by-side {
     display: flex;
+    justify-content: center;
 }
 div.iframe-container{
     text-align: center;
 }
+
 
 img {
     width: 59%;
@@ -66,5 +70,25 @@ nav{
     font-weight:bold;
     font-size:30px;
     padding:1em;
-    
+    text-align:center;
+}
+
+button.ui
+{
+    border:2px solid #abd3d7;
+    color:black;
+    padding: 28px 48px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    transition-duration: 0.2s;
+    cursor: pointer;
+}
+.ui:hover
+{
+    padding: 30px 48px;
+    border:2px solid #799497;
+    background-color:#94b5b8;
+    font-weight:bold;
+    text-shadow: .5px .5px grey;
 }
