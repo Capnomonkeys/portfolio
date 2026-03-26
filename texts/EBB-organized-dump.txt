@@ -1,0 +1,7426 @@
+MY HOME
+=======
+
+DIALOGUE
+--------
+
+Minnie:
+•Brother, I'm so
+ scared! The lamp
+ seems to be alive!
+(after defeating lamp)
+•Oh my! Brother,
+ our house is
+ falling apart!
+•Boo hoo!
+(after defeating doll)
+•Brother, here's
+ some juice.
+•You are thirsty,
+ aren't you?
+(after checking dog)
+•I am Minnie.
+•What can I do
+ for you?
+  Leave    Take out
+(Store)
+•Yes, I will keep
+ [ITEM] with
+ utmost care.
+•Anything else you
+ want me to keep?
+    Yes       No
+(if selecting No, or not storing anything)
+•See you later, and
+ brother...
+ You take care!
+(Take)
+•You want to take
+ [ITEM]?
+•OK! Anything else
+ you'd like to take
+ with you?
+    Yes       No
+(if selecting No, or not taking anything)
+•See you later, and
+ brother...
+ You take care!
+
+Mimmie:
+•Help me!
+(after defeating doll)
+•I was scared to
+ death!!
+•Oh wow! CHECK out
+ what's hidden
+ inside the doll.
+(after checking doll)
+•Brother, here's
+ some juice.
+•You are thirsty,
+ aren't you?
+(if can't hold anything else)
+•Sorry, but I am
+ afraid you can't
+ carry all of them.
+(after checking dog)
+•No, I'm Mimmie,
+ don't confuse me
+ with Minnie.
+
+Mom:
+•[NINTEN].
+ Are you alright?
+•Egad!
+ What is happening
+ to our house?
+•I wish your Dad
+ were here now.
+ Maybe... 
+(if dad hasn't called yet)
+•Telephone!
+ [NINTEN], please get
+ it!
+(after checking dog)
+(if unhurt)
+•Son of mine,
+ you are braver
+ than I thought.
+•I can't let you
+ go on a journey
+ so famished.
+(if hurt)
+•Oh, you have been
+ wounded.
+(after one of the above)
+•I'll cook
+ [FOOD].
+•Eat your dinner,
+ and rest for the
+ night.
+(sleep)
+•When you want to
+ eat [FOOD]
+ again, just come
+ back here.
+(if Ninten is unconscious)
+•[NINTEN], please
+ accept my help.
+
+Dad (phone):
+•This is your Dad.
+•Well...
+ It seems like a
+ poltergeist.
+•I'm not exactly
+ sure how to...
+•But, your great-
+ grand-father
+ studied PSI.
+•You might find
+ something in the
+ basement to help.
+•But, I left the
+ Basement Key
+ someplace...
+•...can't remember
+ exactly where...
+•Anyhow, son, you
+ are my only hope.
+•It's time for you
+ to go on a little
+ adventure,
+•and explore the
+ potential of your
+ powers.
+•Powers not be taken
+ lightly.
+•[NINTEN], go
+ for it!!
+•But remember to come
+ back and check on
+ our family.
+•Bye.
+•Oh... phone me,
+ and I will SAVE
+ your progress.
+•Call me whenever
+ you want.
+•Slam.
+
+Dog:
+•You can converse
+ with animals.
+•Tell you a secret.
+ Why don't you
+ CHECK me out?
+•Bow wow!
+(after checking him)
+•When you find some-
+ thing strange,
+•be sure to CHECK it
+ out every time.
+
+
+ENEMY DESCRIPTIONS
+------------------
+
+Lamp:
+It hovers in the air!
+
+Doll:
+It stares back at you.
+
+Rat:
+A big rat with a tail this long.
+
+
+CHECK DESCRIPTIONS
+------------------
+
+Doll:
+•Inside the doll,
+ [SOMEONE] spotted an
+ old music box.
+•As the music box
+ was wound up...
+•A melody began to
+ play.
+•[SOMEONE] remembered
+ the tune.
+
+Basement Door:
+•The door is locked.
+(when unlocking)
+•[SOMEONE] unlocked
+ the door and went
+ inside.
+
+Dog:
+•There, on the dog's
+ collar, was the
+ Basement Key.
+
+Sign outside Ninten's house:
+•[NINTEN]'s house
+
+
+PODUNK
+======
+
+DIALOGUE
+--------
+
+North Podunk
+
+Pippi's Mom:
+(if Pippi hasn't been rescued yet)
+•Oh, what can I do?
+ What should I do?
+•Where can I go?
+ Who can I see?
+•What should I do?
+ What should I do?
+•My little Pippi is
+ gone.
+•If you're going to
+ Podunk...
+•Please tell the
+ Mayor.
+•Oh me, oh my!
+(if Pippi is in your party)
+•Oh my, little
+ Pippi!  You're
+ back and safe!
+•Thank you for
+ finding her,
+ [NINTEN]!
+•By the way, the
+ Town Mayor is
+ waiting for you...
+•Pippi, go with
+ [NINTEN], and help
+ straighten this out.
+(after Pippi is back home)
+•I want to thank
+ you again for your
+ help.
+•Pippi is
+ fine now.
+
+Pippi:
+(after being rescued)
+•I've heard about
+ your wonderful
+ adventures.
+•You are so brave,
+ aren't you?
+   Yes      No
+(Yes)
+•Don't get so
+ swell headed.
+ Ha-ha-ha.
+(No)
+•You're brave. I
+ hope we can meet
+ again sometime.
+   Yes      No
+(No)
+•You probably
+ already have
+ someone special,
+(Yes)
+(if haven't already received Franklin Badge)
+•I'm so happy!  To
+ show my gratitude
+ take my gift.
+•This shiny Badge
+ will guard you.
+ Keep it!
+(if not enough space)
+•You can't carry it?
+ What a shame!
+(if already received Franklin Badge)
+•Hmmm.
+
+Fat Lady:
+(before taking Pippi back to the mayor)
+•Did a poltergeist
+ visit your house?
+•It tore mine apart.
+(after taking Pippi back to the mayor)
+•It was dreadful...
+
+Noisy Mouse:
+•Hee Hee Hee...
+ I am the noisy
+ mouse.
+•Some buildings
+ you can enter,
+ some you cannot.
+•If the door is
+ round, or has a
+ sign, go on inside.
+•The rest of the
+ doors will not
+ open for you.
+•Bye!
+
+Blond Blue-Shirt Man:
+(before taking Pippi back to the mayor)
+•Don't tell me
+ you've been south
+ to the cemetery!
+(after taking Pippi back to the mayor)
+•You are terrific.
+
+Old Lady:
+(before taking Pippi back to the mayor)
+•Someone must be
+ controlling the
+ dead.
+(afterwards)
+•Young man,
+ you did well.
+
+Purple Woman:
+(before taking care of the zoo)
+•The animals went
+ mad and out of
+ control.
+•The dead became
+ zombies and began
+ attacking people.
+•What can be done?
+(after taking care of the zoo)
+•You are super!
+
+Cool Dude:
+•The Canary Village
+ is northwest from
+ here.
+•It's a nice place
+ to visit and
+ admission is free!
+
+Blue Mustache Man:
+(before taking care of the zoo)
+•Zombies may be
+ anywhere in this
+ town.
+(after taking care of the zoo)
+•You are terrific.
+
+Blond Blue-Shirt Man:
+(before giving Pippi to the mayor)
+•Be honest,
+ you're a zombie.
+•Aren't you?
+   Yes      No
+(Yes)
+•There is no cure
+ for zombies!
+ AAAAAAAHHH!
+(runs away)
+(No)
+•Are you really
+ a human?
+   Yes      No
+(Yes)
+•It's amazing
+ you came here.
+(No)
+•You see...
+•Don't tell anyone,
+ but I'm so scared,
+ I wet my pants.
+(after giving Pippi to the mayor)
+•It was dreadful...
+
+South Policeman (northeast of the zoo):
+(before dealing with the zoo)
+•Proclamation by
+ the Town's Mayor
+ says...
+•No one may pass
+ until the Zoo case
+ is solved.
+•A real one way
+ attitude if you
+ ask me.
+•I don't have to
+ like it, just
+ enforce it.
+(afterwards)
+•The curfew has
+ been lifted.
+•Although I can't
+ see why travel was
+ ever restricted.
+•I heard that you
+ can communicate
+ with Telepathy.
+•Have you heard
+ all of the people
+ talking about you?
+•But you probably
+ don't need to
+ 'listen' to them!
+
+North Policeman (northeast of the zoo):
+(before dealing with the zoo)
+•Proclamation by
+ the Town's Mayor
+ says...
+•No one may pass
+ until the Zoo case
+ is solved.
+•A real one way
+ attitude if you
+ ask me.
+•I don't have to
+ like it, just
+ enforce it.
+(afterwards)
+•Deep in a cave,
+ there is a strange
+ rock-like thing.
+•It's so strange,
+ you definitely
+ should take a look.
+
+
+South Podunk
+
+Blond Blue-Shirt Man:
+•The receptionist at
+ City Hall is so
+ gorgeous.
+
+Blond Black-Shirt Man:
+•The Town Mayor is
+ looking for a
+ brave man.
+
+Red Dress Lady:
+(if you don't have the baby canary)
+•The gentleman in
+ Canary Village
+ is my idol.
+(if you have the baby canary)
+•Did that Canary
+ Chick come from
+ Canary Village?
+   Yes      No
+(Yes)
+•Hum.
+(No)
+•The chicks at the
+ Canary Village
+ have lovely voices.
+
+Old Lady:
+•It's convenient that
+ the cash machine is
+•next to the
+ Service Counter,
+•but, why should I
+ care. I don't have a
+ card for it. 
+
+Cool Dude:
+(before taking care of the zoo)
+•The animals went
+ mad and began to
+ escape,
+•so the Zoo was
+ locked.
+(afterwards)
+•You are terrific.
+
+Purple Woman:
+•To EAT, you'll
+ find Bread stale,
+•but, with its
+ Crumbs you can
+ mark your trail.
+•Do you think I
+ talk too much?
+ Well do I?
+
+Scuzzy Kid:
+•Hey [NINTEN], how's
+ your asthma?
+•Mine has gotten
+ better,
+•but car exhausts
+ still sets it off.
+
+Fat Lady:
+•Has the little
+ girl who strayed
+•into the cemetery
+ been rescued?
+
+Blue Mustache Man:
+(before giving Pippi to the mayor)
+•You...
+ Are you really going
+ to the cemetery?
+   Yes      No
+(Yes) (No)
+•I thought you were
+ a sensible child.
+(afterwards)
+•You are terrific.
+
+Blond Blue-Shirt ZOMBIE:
+•Zombie!
+
+Blond Blue-Shirt ZOMBIE:
+•Ha-ha...
+ You shall become
+ a Zombieeee!
+
+Policemen:
+•Until the curfew
+ is lifted, no one
+ can cross.
+•That is by order
+ of the Town Mayor.
+•Psst...
+ by the way kid,
+•they might let you
+ cross the bridge
+ northeast of The Zoo.
+
+
+City Hall
+
+Receptionist:
+(before taking care of the zoo)
+•I'll share the
+ secret with you
+ later.
+(after taking care of the zoo)
+•I've heard a
+ rumor about a
+ wonder girl.
+•She will help you
+ on your trip.
+
+Abbot:
+(before getting the zoo quest)
+•I am Abbott, not
+ the Town Mayor,
+ but his assistant.
+•Mr. Mayor is over
+ there.
+(if getting a zoo key for the first time)
+•This Key will open
+ the Zoo's gate.
+ Now don't lose it.
+(if the monkey has stolen the zoo key)
+•Zoo Keys are a
+ dime a dozen,
+ have another.
+(after taking care of the zoo)
+•Hello, [SOMEONE]!
+ How are you doing?
+
+Mayor:
+(if haven't yet rescued Pippi)
+•Citizen, I know
+ you would like to
+ help your town.
+(if haven't accepted quest yet, continues from above)
+•Well...
+ A child has strayed
+ into the cemetery.
+•And...
+ I'm up for re-
+ election soon.
+•You must help!
+ Please help me!
+   Yes      No
+(Yes) (No)
+•Oh!?
+ You will go there
+ and save her?
+•Return her to me
+ alive, and surely
+ I'll be a hero...
+•Er, umh, I mean
+ you'll be a hero.
+(if Pippi's conscious but Ninten isn't)
+•Little girl! This
+ is no place for a
+ child like you.
+(after rescuing Pippi)
+•Is she the lost
+ girl, Pippi?
+•Well that's just
+ great.
+•I knew that you
+ could fulfill your
+ civic duty.
+•Applause,
+ applause...
+•Now pretty Pippi,
+ don't forget...
+•to tell your Mom
+ that the Mayor
+ saved you.
+•Here, I will give
+ [SOMEONE] a prize of
+ [AMOUNT].
+(...)
+•By the way hero,
+•maybe you'd like
+ to go see what's
+ up at the Zoo?
+   Yes      No
+(Yes) (No)
+•Yes, you'll go?
+ Great, great
+ great!
+•Now make sure to
+ get a Key from my
+ assistant, Abbott.
+(after taking care of the zoo)
+•Why if it's not
+ our hero [SOMEONE],
+•You have tiger
+ droppings on your
+ clothes.
+•Ha-ha, just
+ joking. Now run
+ along kid.
+
+Pippi:
+(after being rescued)
+•Now, it's time to
+ say good-bye.
+•Please come by my
+ house, I'll be
+ waiting there to
+•see you again.
+ By the way...
+•Do you think my
+ hair needs
+ styling?
+   Yes      No
+(Yes) (No)
+•You didn't have to
+ answer, cutie.
+
+
+Department Store
+
+(Other Dept Store NPCs can be found in the General file.)
+
+Black Dress Woman:
+(before taking care of the zoo)
+•I think something
+ is controlling
+ the animals.
+(after taking care of the zoo)
+•Ah... cute pets
+ aren't they?
+   Yes      No
+(Yes)
+•Hmmm.
+(No)
+•You stupid jerk!
+
+Pet Store Man:
+(if haven't yet received canary)
+•Look for yourself,
+ all the animals
+ have escaped.
+•Only this Canary
+ Chick is left.
+ Want to buy it?
+   Yes      No
+(No)
+•OK kid, it's a
+ free country, you
+ know.
+(Yes)
+•Well, how about
+ $[PRICE]?
+   Yes      No
+(Yes)
+•Take care of it.
+ Come see us again! 
+(No)
+•If it's free, do
+ you want it?
+ Then take it!
+(after taking canary)
+•How's the Canary?
+(after giving canary to Laura)
+•Look for yourself,
+ all the animals
+ have escaped.
+
+
+Hotel
+
+(Hotel Receptionist can be found in the General file.)
+
+Blond Blue-Shirt Man:
+•The room rate at
+ this Hotel is so
+ inexpensive...
+•And that's not
+ where it stops
+ being cheap either.
+
+Old Lady:
+•Whenever you get
+ tired, just drop
+ by our Inn.
+
+
+Burger Shop
+
+Purple Girl:
+•My!
+ You are that
+ snot-nosed [SOMEONE]
+•who sat next
+ to me in
+ kindergarten!
+
+Healer's House
+
+Healer:
+•Believe it or not,
+ I am a Healer.
+•I can charge your
+ PP, and can cure
+ stone-illness.
+   Refresh  Soften
+(Refresh)
+•Give me $[PRICE]
+ for that.
+   Yes      No
+(Yes)
+(after selecting a character)
+(if character doesn't use PSI)
+•I see everything
+ with you is fine.
+(else)
+•There you have it!
+ I've fixed it like
+ a true expert.
+(Soften)
+•Give me $[PRICE]
+ for that.
+   Yes      No
+(Yes)
+(if multiple party members)
+•Who needs to be
+ softened?
+(if success)
+•There you have it!
+ I've fixed it like
+ a true expert.
+(if not turned to stone)
+•You have not been
+ turned to stone.
+(No to either)
+•OK, do what you
+ want to.
+(if not enough money)
+•Oh?  You don't
+ seem to have
+ enough money.
+
+
+ENEMY DESCRIPTIONS
+------------------
+
+Centipede:
+Exterminate it with Insecticide.
+
+Wally:
+He has a short temper, so be careful.
+
+Hippie:
+He looks like he could grow flowers in his hair.
+
+Crow:
+Watch your wallet and count your change, he's a thief!
+
+Snake:
+It might not be poisonous...
+
+Stray Dog:
+I wonder if it carries fleas?
+
+PseudoZombi:
+Watch out for further sneak attacks.
+
+
+CHECK DESCRIPTIONS
+------------------
+
+Sign north of town:
+•  Welcome to
+     Podunk
+
+Sign east of town:
+•      Podunk
+        WEST
+•   Merrysville
+        EAST
+
+Sign before cemetery:
+•   Healer's House
+        WEST
+   Beyond Bridge...
+•     Cemetery
+ Abandon all hope
+ ye who enter!
+
+Sign before Canary Village:
+•No Hunting -
+ Approaching
+•The Canary Village
+ Wildlife Refuge
+
+Sign before zoo:
+•     City Zoo
+     700 meters
+        WEST
+
+
+CANARY VILLAGE
+==============
+
+DIALOGUE
+--------
+
+All canaries except Laura:
+(if haven't yet given chick to Laura)
+• ......
+(after giving chick to Laura)
+•This canary is
+ singing.
+
+Blue Hair Man:
+(if you don't have the canary chick)
+•It's fine weather
+ today.
+ But, I don't care.
+(if haven't given the chick to Laura)
+•Wow! That Canary
+ is the baby of
+ singing Laura.
+•Will you return her
+ baby to her.
+   Yes   No
+(Yes)
+•Where is Laura?...
+(No)
+•Wait...
+•You just missed
+ something very
+ important.
+(after giving chick to Laura)
+•Laura remembered
+ her song, and began
+ to sing once more.
+•Did you learn
+ the melody?
+   Yes   No
+(Yes)
+•The truth is...
+ There is power in
+ song.
+(No)
+•That's no good.
+
+Laura:
+•I am Laura.
+(after using canary chick)
+•Overjoyed with her
+ reunion, Laura
+ began singing.
+•[SOMEONE] remembered
+ the tune.
+(afterwards)
+•This canary is
+ singing.
+•[SOMEONE] remembered
+ the tune.
+
+
+CHECK DESCRIPTIONS
+------------------
+
+Silver pillar:
+•?
+
+
+CEMETERY
+========
+
+DIALOGUE
+--------
+
+Man in Building:
+•I'd like to stop
+ the zombies evil
+ ways, but...
+•They do not listen
+ to me, or won't
+ even talk to me...
+•Now I am too
+ scared to leave
+ this place.
+
+Pippi:
+•Hi! I am Pippi,
+ and I'm lost.
+•What a brave
+ boy you are to
+ have found me.
+   Yes   No
+(Yes)
+•Don't get so
+ swell headed.
+ Ha-ha-ha.
+(No)
+•You're brave. I
+ hope we can meet
+ again sometime.
+   Yes   No
+(No)
+•You probably
+ already have
+ someone special,
+(Yes)
+•I'm so happy!  To
+ show my gratitude
+ take my gift.
+•This shiny Badge
+ will guard you.
+ Keep it!
+(if not enough space)
+•You can't carry it?
+ What a shame!
+(after any of the above)
+•Now, let's go back
+ to town.
+(...) 
+•[NINTEN], please go
+ first. I am so
+ afraid.
+
+
+ENEMY DESCRIPTIONS
+------------------
+
+Ghost:
+It's just an ordinary ghost.
+
+Mr. Bat:
+Life itself is a puzzle to Mr. Bat.
+
+PseudoZombie:
+Watch out for further sneak attacks.
+
+Gang Zombie:
+Careful, his 'Smash Hit' is quite effective.
+
+
+CHECK DESCRIPTIONS
+------------------
+
+Coffins:
+•[SOMEONE] pried up
+ the lid. Out from
+ the casket...!!
+
+
+ZOO
+===
+
+DIALOGUE
+--------
+
+Monkey:
+•EEE, EE EEK,
+ EEK EEK!
+(if you have the zoo key)
+•The monkey stole
+ the Zoo Key.
+
+
+ENEMY DESCRIPTIONS
+------------------
+
+Hyena:
+He who laughs last laughs best!
+
+Fly:
+Insecticide is effective.
+
+Tiger:
+Watch those eyes!
+
+Elephant:
+Don't let him stop and unpack his trunk!
+
+Gorilla:
+Don't let this primate punk pick on you!
+
+Alligator:
+Don't accept his invitation to dinner.
+
+Starman Jr.:
+He is small, but it is obvious that he is a spaceman.
+
+Centipede:
+Exterminate it with Insecticide.
+
+Rat:
+A big rat with a tail this long.
+
+BionicCenti:
+Its strong poison was developed in a laboratory.
+
+
+CHECK DESCRIPTIONS
+------------------
+
+Zoo gate:
+•The lock was
+ broken. [SOMEONE]
+ opened the door.
+
+Cage sign:
+•One of a kind!
+ See the amazing
+ Singing Monkey!
+(if Starman Jr was defeated)
+•The Singing Monkey
+ sang with passion.
+•[SOMEONE] remembered
+ the tune.
+
+Building sign:
+•     City Zoo
+  Superintendent's
+       Office
+
+Starman Jr pill thing:
+•Suddenly, from
+ inside of the
+ capsule...
+(battle with Starman Jr.)
+•The odd sound that
+ drove the animals
+ insane died down.
+•The Zoo once more
+ became a safe
+ place.
+
+Pink Magicant Spiral:
+•Wait.. A voice is
+ speaking into
+ [SOMEONE]'s mind.
+(if using Telepathy)
+•[SOMEONE] felt this
+ question enter 
+ his mind.
+•"Who has lost
+ his tail?"
+(if you have the GGF's Diary)
+•Finding the entry
+ in Great-Grand
+ Father's Diary,
+•[SOMEONE] read out
+ loud...
+•The forgotten one
+ of the ship that
+ sails the cosmos.
+(whoa! Magicant!)
+
+
+MAGICANT
+========
+
+DIALOGUE
+--------
+
+North Magicant
+
+Red Witch Girl:
+•Deep in the woods,
+ is a guitar player
+ who is a hermit.
+•Not that bad
+ looking of a
+ man...
+•Best of all,
+ he's quite a poet.
+
+Red Witch Girl:
+•In a bad dream,
+ Magicant vanished
+ into thin air.
+•My heart is still
+ pounding so hard.
+
+Swimming Candy Cat:
+(if you haven't gotten the candy yet)
+•I am a Swimming
+ cat.
+•Have you heard of
+ a Magic Candy that
+ gives strength
+•and power to a
+ helpless child?
+    Yes    No
+(Yes)
+•Hum.
+(No)
+(if Lloyd isn't in your party)
+•I see, but you are
+ not helpless, so
+ you don't need it.
+(if Lloyd is in your party)
+•The boy with
+ glasses can surely
+ use the Candy.
+(if you've gotten the candy already)
+•Was the Candy
+ good?
+
+
+North Magicant Houses (ordered north-south, then east-west)
+
+Blue Witch Girl:
+•This was to be a
+ musical instrument
+ store,
+•but the Ocarina
+ that we ordered
+ never arrived.
+•So I've given up.
+
+Purple Wizard Guy:
+•Outside?
+ A world outside?
+ What do you mean?
+
+Blue Wizard Guy:
+•There is no exit
+ from a place like
+ Magicant.
+•Ha ha ha...
+
+Blue Wizard Guy:
+•Have you met a man
+ who says, that you
+ cannot part,
+•with someone you
+ have not met?
+    Yes    No
+(Yes)
+•I tend to think
+ the same way, too.
+(No)
+•You should meet
+ him.
+
+Purple Wizard Guy:
+(if you haven't met the guy who talks about how you can't part if you haven't met)
+•Are you bothered that
+ unhappiness and
+•misfortune search
+ you out?
+    Yes    No
+(Yes)
+•If you desire to
+ never find
+ trouble...
+•STAY HOME!!
+(No)
+•Is that right?
+ Trouble searches
+ after you?
+•Hmm, that's too
+ bad.
+(if you have met him, but haven't yet been nicknamed)
+•Then, you admit I
+ have good taste.
+•Huh?
+ You want a cool
+ nickname, too?
+    Yes    No
+(No)
+•Is that right?
+ That's too bad.
+(Yes)
+•OK, I've got it!
+ From now on, you
+ are Noodlenoggin!
+•Sounds pretty
+ cool, doesn't it?
+(if you've already been nicknamed)
+•Hello, there!
+ Noodlenoggin
+ [SOMEONE].
+
+Blue/Red Wizard Guy:
+•Stranger, I can
+ tell you're not
+ from this place.
+
+Blue Wizard Guy:
+•Have you ever met
+ the man who practices
+ philosophy?
+    Yes    No
+(Yes)
+(if you haven't actually met him)
+•I know you're
+ lying. I can see
+ right through you.
+(if you have)
+•He is so good at
+ nicknaming.
+•He uses such...
+ good taste in it.
+(No)
+•In the first
+ place, if we
+ have not met
+•we cannot part!
+
+Blue Wizard Guy:
+(if you haven't slept at his house)
+•I bent my spoon
+ and it's hard to
+ use like this.
+•Do you think
+ somehow you could
+ fix it for me?
+    Yes    No
+(No)
+•Why not? You can
+ fix it without any
+ physical effort!
+(Yes)
+•Please fix it
+ right away.
+•([NINTEN] fixed
+ the spoon with
+ PSI-Power.)
+•Thanks a million!
+ Munch, munch...
+•Hey, would you
+ like to spend
+ the night here?
+    Yes    No
+(No)
+•Boo hoo hoo... You
+ should accept
+ kindness graciously.
+(Yes)
+•That's good.
+(sleep)
+•Please come again.
+ Promise me you'll
+ come again!
+(if you've already slept at his house)
+•You come to stay
+ the night again?
+    Yes    No
+(No)
+•Please feel free
+ to use our bed
+ anytime.
+(Yes)
+(sleep)
+•Good morning!
+
+Blue Wizard Guy:
+(if he hasn't given you the Ocarina yet)
+•The Ocarina of
+ Hope is finally
+ completed.
+•Its melody
+ can now flow out
+ from it.
+•Do you want it?
+    Yes    No
+(Yes)
+•You're a pretty
+ straight looking
+ dude, Go ahead.
+•Ha ha ha.
+(No)
+•It's quite obvious
+ that you want it.
+ Ha ha ha.
+•Go ahead, take it.
+(if he has)
+•Hey, kid! 
+ How are you doing?
+
+
+South Magicant
+
+Red Witch Girl:
+•You're a strange
+ person...
+•but for some
+ reason, I like
+ you.
+
+Purple Witch Girl:
+•I wish I could go
+ into the castle to
+ see Queen Mary.
+
+Blue Wizard Guy:
+•If you need the
+ benevolent
+ old man,
+•go to Queen Mary's
+ Fountain for his
+ help.
+•He will hear your
+ soulful cry and
+ come to help.
+•Soulful cry,
+ remember,
+ soulful cry!
+
+Blue Wizard Guy:
+•More to the south.
+ Are you lost?
+•Sorry...I was
+ directing you to
+ the rest room.
+•Queen Mary's
+ Fountain is west
+ of the castle.
+
+
+South Magicant Houses (ordered north-south, then east-west)
+
+Purple Wizard Guy:
+•The mysterious
+ sound of the
+ fountain soothes.
+
+Blue Wizard Guy:
+•My! What strange
+ clothing you wear!
+•Surely monsters
+ will come after
+ those clothes!!
+
+Purple Witch Girl:
+•I am so embarrassed!
+ I wish I could 
+ crawl into a hole.
+
+Mysterious Goods-Keeper:
+•I am the
+ Mysterious
+ Goods-Keeper.
+•You have a need?
+    Yes    No
+(No)
+•Those bags must
+ weigh heavy on
+ your shoulders.
+(Yes)
+  Leave    Take out
+(Store)
+(after selecting an item)
+•I'll send this
+ [ITEM] to
+ [NINTEN]'s house.
+•Is there anything
+ else you want me
+ to keep?
+    Yes    No
+(if there are no items in your inventory)
+•You have nothing.
+(No)
+•Good bye!
+ Be careful.
+(Take)
+(after selecting an item)
+(after selecting a character if there are multiple characters)
+(if the character can't carry anything else)
+•Can't someone else
+ carry that? Your
+ load is too great!
+    Yes    No
+(No)
+•Good bye!
+ Be careful.
+(Yes -- jump back to selecting a character)
+(else)
+•The [ITEM] is
+ once more in
+ your possession.
+•Is there anything
+ else you'd like
+ to take?
+    Yes    No
+(No)
+•Good bye!
+ Be careful.
+(if inventory is full)
+•Sorry, but I am
+ afraid you can't
+ carry all of them.
+
+Mysterious Mimicker:
+•I am the
+ Mysterious
+ Mimicker.
+(standard phone text minus "This is your dad")
+
+Red Witch Girl:
+•I am taking this
+ broken earring to
+ the fountain.
+•I'll bet it'll
+ change into a
+ magic earring.
+
+Purple Witch Girl:
+•Pull out a Red
+ Weed and place it
+ into the fountain,
+•it will turn into
+ the Magic Herb.
+
+Blue Wizard Man:
+(if haven't received the Big Bag)
+•Would you like me
+ to give you the
+ Big Bag?
+    Yes    No
+(No)
+•It holds 30
+ Magic Herbs.
+(Yes)
+•Can I borrow your
+ Cash Card for a
+ while?
+    Yes    No
+(No)
+•You don't trust
+ anyone.
+•That may be a good
+ attitude,
+ possibly...
+(Yes)
+•Thank you,
+ sure, sure I'll
+ return it to you.
+•I thought that
+ it looked pretty
+ cool.
+(if he's taken your ATM Card)
+•Oh that's right, I
+ have to return
+ your Cash Card!
+(if you can't hold any more items)
+•Your load is too
+ great for more.
+ Why not come back?
+(else)
+•I give you the
+ Big Bag.
+ A gift for you.
+(if you can't hold any more items after getting the ATM Card)
+•Load is too heavy?
+ Remember to come
+ back and get it.
+(if you're coming to get it later)
+•Load is too heavy?
+ Remember to come
+ back and get it.
+(if you've already gotten the Big Bag)
+•Has it been helpful
+ to you?
+
+
+Outer Magicant
+
+Guitar Player:
+(if Ninten's level < 25)
+•Hello! I didn't hear
+ you come in.
+•That guitar playing
+ is so loud...
+•I can't even
+ think.
+•What? I was
+ playing the guitar
+ myself!?
+•I should have
+ known.
+•..........
+•The story I tell
+ to you now
+ is a real secret.
+•When you become
+ really strong,
+ come see me.
+•You had better
+ write this down so
+ you don't forget.
+•I know if I don't
+ write things down,
+ I forget.
+(if Ninten's level >= 25)
+•Listen to my song!
+ Oh music-loving
+ adventurer [SOMEONE]!
+•Why do you cry,
+ oh Cupid-Doll?
+•Canary sings
+ so sadly.
+•Monkey sings,
+ Piano plays,
+•maybe there
+ is a ghost?
+•Desert Cactus
+ so alone,
+•every night
+ his sad, sad tone.
+•The Dragon sleeps,
+ the note remains.
+•Eve's last song
+ has no refrain.
+•On the Mount
+ named Itoi,
+•you must climb
+ high young boy.
+•See the XX Stone,
+ for the last tone,
+•then do not leave
+ Queen Mary alone!
+•La la lullaby...
+ Strange lullaby...
+•Bye bye bye...
+ Good-bye.
+•Sure is a nice
+ song, isn't it?
+
+Cat that Swims in the Ground:
+•Yes, I am the cat
+ who swims on the
+ ground.
+•Guess what is in
+ my hand.
+(if using Telepathy)
+•Do you know what I
+ have in my hand?
+•That is right.
+ A Ribbon...
+•This Magic Ribbon
+ will give
+ strength...
+•Magic Ribbons are
+ only for girls.
+(if inventory is full)
+•If you can't carry
+ it, come back some
+ other time.
+
+Monkey:
+•Of course I am a
+ non-singing
+ monkey.
+•Normal monkeys
+ don't sing.
+ So, any questions?
+    Yes    No
+(Yes)
+•Anyhow...
+ questions are so
+ ridiculous.
+(No)
+•Good, I worried
+ that you would ask
+ a difficult one.
+•You look so much
+ like Queen Mary.
+•I wonder why?
+
+Red Witch Girl:
+•Someone told me
+ about a man that
+•everyone forgot
+ about. But, I don't
+ remember who.
+
+Helpful Old Man:
+•Did you call me
+ up?
+    Yes    No
+(No)
+•Is that right?
+ Bye!
+(Yes)
+•You need money,
+ don't you?
+    Yes    No
+(No)
+•Is that right?
+ Bye!
+(Yes)
+•Well, your balance
+ is $[BALANCE].
+•How much do you
+ want to withdraw?
+    ? 0000
+•Here...
+ Take it with you.
+(if canceling withdrawal)
+•Is that right?
+ Bye!
+(if trying to withdraw too much money)
+•Ouch, there is not
+ that much money left
+ in your account.
+
+Purple Clown:
+•There are a great
+ many holes east of
+ town.
+•The sound of
+ another world can
+ be heard from one.
+
+Purple Clown:
+•I regained my
+ strength at Queen
+ Mary's fountain.
+
+Center Palace Guard:
+(if haven't yet answered his riddle)
+•Suspicious man....
+ I'll let you pass,
+•if you solve this
+ riddle...
+(if using Telepathy)
+•That's right.
+ The answer is
+ "two alligators".
+•Although I haven't
+ come up with the
+ riddle yet.
+(after answering the riddle)
+•See you later!
+
+Left/Right Palace Guard:
+•......
+
+Flying Man 1:
+•I am the Flying
+ Man. My destiny
+ is to help you.
+
+Flying Man 2-5:
+•I heard that my
+ brother died with
+ honor in combat.
+•With all our love,
+ he was buried in
+ our cemetery.
+•It is with great
+ pride that I take
+ his place by you.
+
+
+Queen Mary's Castle
+Non-Throne Room
+
+Blue Clown:
+•Queen Mary often
+ has nightmares.
+•As if scolding a
+ naughty child,
+ she cries out,
+•"I am scared!
+ I am scared!"
+•And then she
+ starts to sing...
+ just a little bit.
+•Then she forgets
+ the tune, and
+ wakes in a sweat.
+•I wonder what sad
+ experience has done
+ this to Queen Mary?
+
+Blue Clown:
+•I wish I could
+ hear the Queen
+ sing again.
+
+Throne Room
+
+Red Clown:
+•The Queen isn't
+ feeling very well.
+
+Red Clown:
+(if you haven't gotten the Onyx Hook yet)
+•All of us know you
+ don't belong here,
+•but we consider
+ you one of us.
+•With the Onyx
+ Hook, you can warp
+ back here anytime.
+(regardless)
+•Promise me, that
+ if you need help,
+ you will return.
+•Everyone loves
+ you, [SOMEONE].
+
+Queen Mary:
+(if you haven't yet acquired the Eight Melodies)
+•Welcome, [SOMEONE].
+•Here in Magicant,
+ everyone is your
+ friend.
+•You can have as
+ much as you like,
+•of whatever you
+ want.
+•What? You want to
+ listen to my song?
+•Sorry, I don't
+ know why, but I
+ just can't sing.
+•I beg you to learn
+ the melody. It is
+ only 8 notes long.
+•When you learn
+ them all, return
+ and sing for me.
+•If I only could
+ hear that song...
+(if you have)
+•Please SING to me
+ the melodies that
+ you have learned.
+(you sing them)
+•Yes...
+ that's right.
+ That is the song.
+(she sings them)
+•Oh! Giegue!
+(gets darker)
+•I loved him...
+•I loved him,
+ as if he was my
+ own child...
+(gets darker)
+•He was always
+ wagging his tail,
+ just like a pup...
+•EXCEPT for when I
+ tried to SING him
+ lullabies...
+(gets darker)
+•Ahhh...George!
+ This is your wife,
+ Maria.
+•I'm coming to join
+ you, my purpose is
+ complete...
+(completely black)
+•After telling the
+ story to [NINTEN],
+•with a rush of
+ wind, Queen Mary
+ vanished.
+•As she disappeared,
+ so did Magicant.
+•Magicant was a
+ mirage...
+•A mirage born of
+ Maria's
+ consciousness.
+
+
+Magicant Hospital
+
+Blue Witch Girl:
+•I see...
+ You don't feel so
+ well. Wait...
+(after selecting a character if there are multiple people in the party)
+•Well,
+ you are fine
+ once again.
+(if canceling character selection)
+•You really don't
+ need treatment?
+ Oh, well...
+
+
+Magicant Hotel
+
+Red Witch Girl:
+•Oh, traveller! Why
+ don't you enjoy a
+ meal at our house?
+•Well.... Today's
+ special. Can you
+ guess what it is?
+    Yes    No
+(No)
+•Why not!? You sound
+ so suspicious!
+(Yes)
+•Yes, it's 
+ [FOOD].
+•I knew you liked
+ [FOOD]. Do you
+ want some?
+    Yes    No
+(No)
+•Is that so?
+(Yes)
+•Thanks. Your bed
+ is ready. Please
+ sleep well.
+(sleep)
+•Had a good sleep?
+ Have a nice trip!
+
+
+Magicant 7-Shops
+
+Shopkeeper (all use the same script):
+•What are you
+ staring at?
+•Here in Magicant
+ it's just like the
+ world outside.
+•Just leave me some
+ cash, then with the
+ Goods you can dash.
+•Hee Hee Hee.
+(after selecting an item)
+•You mean
+ [ITEM]?
+    Yes    No
+(Yes)
+•Thank you.
+•Do you want
+ anything else?
+    Yes    No
+(No)
+•Thank you very
+ much. Please
+ visit us again.
+(if not buying anything, or saying No to buying something)
+•Are you sure you
+ don't need that?
+ Well, come again.
+(if not enough money)
+•I'm sorry, but you
+ just don't have
+ enough money.
+(if not enough space)
+•Oh?  You seem to
+ have too much to
+ carry.
+
+
+Crystal Caverns
+
+Dragon:
+•......
+
+Forgotten Man:
+(first time)
+•I am a forgotten
+ man. I'm not
+ really here.
+•You didn't have to
+ notice me....
+•Please ignore me.
+(second time)
+•I am a man who
+ does not exist.
+•You talk so
+ kindly, I don't
+ know what to do.
+•If I miss people,
+ I cannot live
+ alone anymore.
+(third time)
+•My conversation
+ is always a
+ monologue.
+•I've been alone
+ from the moment
+ I was born...
+(fourth time)
+•Lucky, unlucky...
+ It makes no
+ difference to me.
+•Sometimes, even
+ breathing becomes
+ too much.
+(fifth time)
+•Why do you insist
+ on talking to me?
+•Are you a
+ forgotten
+ man, too?
+    Yes    No
+(Yes)
+•Don't give me that
+ garbage. Just
+ leave me alone.
+(No)
+•That's right.
+ That is right,
+ right?
+•Go ahead, ignore
+ me, like everyone
+ else.
+    Yes    No
+(No)
+(jump back to first time)
+(Yes)
+•That's right.
+ Thank you.
+(disappears)
+
+
+ENEMY DESCRIPTIONS
+------------------
+
+Magic Snail:
+Its shell is unbelievably hard.
+
+Momseyes:
+Momseyes will spot you for sure!
+
+Dadseyes:
+Watch your step: Dadseyes are everywhere.
+
+Raeb Yddet:
+It has strong friends.
+
+Sky Yddet:
+It has friends!
+
+Big Woodoh:
+Should you fight or run?
+
+Woodoh:
+An animated tree with suspicious actions.
+
+Foureyes:
+It's the optometrists favorite!
+
+Watcher:
+This enemy's face is the easiest to draw.
+
+Groucho:
+If he was a mask, someone might mistake your identity!
+
+Ullrich:
+This thing could not occur naturally.
+
+The Fish:
+It seems to be guarding something.
+
+Dragon:
+It seems to have an important secret.
+
+
+CHECK DESCRIPTIONS
+------------------
+
+Queen Mary's Fountain:
+•Your strength has
+ revived by touching
+•the fountain's
+ mysterious water.
+(if using Telepathy)
+•Hearing the soulful
+ cry, the Benevolent
+ Old Man showed up.
+
+Red Weed (in fountain):
+•When placed in the
+ fountain,
+•the Red Weed became
+ Magic Herb.
+
+Various Flying Man tombstones:
+(these appear in a random order)
+•[NINTEN]'s faithful
+ and loyal servant,
+•The brave soldier,
+ Flying Man, rests
+ here in peace.
+
+•[NINTEN]'s strong
+ and powerful ally,
+•The brave soldier,
+ Flying Man, rests
+ here in peace.
+
+•[NINTEN]'s
+ benevolent buddy,
+•The brave soldier,
+ Flying Man, rests
+ here in peace.
+
+•To [NINTEN]'s great
+ sorrow,
+•The brave soldier,
+ Flying Man, rests
+ here in peace.
+
+•To [NINTEN]'s horror
+ and dismay,
+•The brave soldier,
+ Flying Man, rests
+ in peace here.
+
+Dragon:
+(if Ninten's level < 25)
+•The Dragon sleeps.
+•[SOMEONE]'s Psychic
+ Power is short of
+ waking the Dragon.
+(if Ninten's level >= 25)
+•Feeling [SOMEONE]'s
+ presence, the
+ Dragon awoke.
+•You must defeat
+ me to earn my
+ musical note.
+(immediately after being defeated)
+•The Dragon crooned
+ his tune without
+ much hesitation.
+•The song went
+ something like
+ this...
+•[SOMEONE] remembered
+ the tune.
+(after it's already been defeated)
+•The Dragon was in
+ a deep, deep,
+ sleep.
+•[SOMEONE] remembered
+ the tune.
+
+
+MERRYSVILLE
+===========
+
+DIALOGUE
+--------
+
+North Merrysville
+
+Blond Blue-Shirt Man:
+•I heard about some
+ weird things over
+ in Podunk.
+    Yes   No
+(Yes)
+•Heard a zombie was
+ kidnapped...
+•animals roamed the
+ city streets...
+•all kinds of crazy
+ stuff.
+(No)
+•Hum.
+
+Cool Dude:
+•Get to school!
+ You are a school
+ boy, aren't you?
+
+Blond Blue-Shirt Man:
+(if you haven't gotten the rocks off the train tracks)
+•How can we get the
+ big rocks off the
+ railroad tracks?
+•I'll bet the Mayor
+ leaves them there
+ 'til election time.
+(if you have)
+•I just had to tell
+ you about it as
+ soon as I saw you.
+•The rails are
+ fixed, and the
+ train is on time.
+
+Fat Lady:
+•I've heard that in
+ Duncan's
+ Factory up north,
+•they've started
+ building huge
+ rockets.
+
+Cool Dude:
+•Have you been to
+ Sweet's Little
+ Factory?
+    Yes   No
+(Yes)
+•They manufacture
+ Bottle Rockets
+ there.
+(No)
+•Hum.
+
+Policeman:
+•What happened to
+ school? You have
+ school, don't you?
+
+Old Lady:
+•There was a rock-
+ slide near Union
+ Station.
+•The train can't get
+ through until it
+ has been removed.
+
+Blue Mustache Man:
+•Don't take me for
+ an ordinary man.
+•Although I am an
+ ordinary man.
+
+Blond Black-Shirt Man:
+•I'd like to be a
+ doctor, and help
+ sick people...
+•and make lots of
+ money doing it.
+
+Scuzzy Kid:
+•I've heard many
+ scary monsters
+ lurk outside town.
+•I'm so afraid that
+ they'll take my
+ money away.
+
+Purple Woman:
+•My husband is an
+ important man at
+ Twinkle School.
+•He never eats
+ lunch.
+
+
+South Merrysville
+
+Cool Dude:
+•An awful creature
+ beat me up.
+•If you're going to
+ the station, watch
+ out!
+
+Fat Lady:
+•I heard the curfew
+ in Podunk has been
+ lifted.
+•You know what that
+ means, don't you?
+•We can cross the
+ bridge once more!
+
+Cool Dude:
+•You look so happy
+ all of the time!
+
+Blond Blue-Shirt Man:
+(if you haven't blown up the rocks yet)
+•I think...
+ I think...
+•The rockslide on
+ the railroad
+ tracks...
+•Could be blown up
+ with a Duncan
+ Factory Rocket.
+(if you have)
+•I just had to tell
+ you about it as
+ soon as I saw you.
+•The rails are
+ fixed, and the
+ train is on time.
+
+Red Dress Lady:
+•Duncan Enterprises
+ plans to build a
+ strip-joint here.
+•No one in town
+ likes the idea of
+ that at all!
+
+Purple Woman:
+•I told my kid to
+ study, then play
+ Nintendo games.
+•Those are the
+ rules around my
+ house!
+
+Blue Mustache Man:
+•I got this from
+ Duncan's factory
+ in the north.
+
+Blond Blue-Shirt Man:
+(if you haven't already received the Phone Card)
+•Excuse me...
+ could you answer
+ this questionnaire?
+    Yes   No
+(No)
+•Really? This is
+ a respectable
+ survey...
+(Yes)
+•Do you think the
+ train tickets are
+ too expensive?
+    Yes   No
+(Yes) (No)
+•Have you USEd
+ the Bullhorn?
+    Yes   No
+(Yes) (No)
+•Thank you for
+ your cooperation.
+ In exchange...
+•for your time,
+ this Telephone Card
+ is for you.
+(if you have too many things)
+•Let's see... 
+ It seems that your
+ load is too heavy.
+(if you have already received the Phone Card)
+•Excuse me, but
+ could you answer
+ this questionnaire?
+•Oh! I'm sorry I've
+ already asked you
+ these questions...
+
+
+Hotel
+Lobby
+
+Blond Blue-Shirt Man:
+•The Hotel in this
+ town isn't any 
+ better than the
+•one in Podunk,
+ and yet it
+ is so expensive...
+
+Top-Floor Restaurant
+
+Blue Mustache Man:
+•A restaurant, rant,
+ rant, rant...
+ Happy restaurant,
+•rant, rant, rant...
+ Are you happy?
+
+Red Dress Lady:
+•All restaurant
+ owners love
+ musicals!
+
+Blond Blue-Shirt Man:
+•I think [FOOD]
+ is delicious, too.
+
+
+Twinkle Elementary School
+Floor 1 Hallway
+
+Blond Blue-Shirt Man:
+•Wait a minute, I
+ don't belive I've
+ seen you before.
+•You must not be
+ from around here,
+ are you?
+    Yes   No
+(Yes)
+•I see. Just don't
+ run in the hall.
+(No)
+•Show me what
+ you have.
+•You don't have
+ anything dangerous,
+ do you?
+
+Red Dress Frizzy Hair Lady:
+•Don't run in
+ the hall!
+
+Room 101
+
+Purple Ponytail Girl:
+•The janitor has
+ the key to the
+ roof.
+•But he wouldn't
+ give it to me.
+
+
+Purple Ponytail Girl:
+(if you don't have Lloyd)
+•I saw [LLOYD]
+ steal explosives!!
+•I'm afraid of what
+ Mr. Teacher will
+ say.
+(if you do)
+•Your glasses have
+ slipped off your
+ nose.
+
+Red Hair Pigtail Girl:
+•I am Suzy. I'm
+ Miss Merrysville.
+•Aren't I gorgeous?
+    Yes   No
+(Yes)
+•You look cute too.
+(No)
+•You are ugly!
+ You remind me of a
+ noodlenoggin!
+
+Room 102
+
+Blue Headband Kid:
+•I can't do a
+ cartwheel.
+
+Red Hair Pigtail Girl:
+•I still don't know
+ how to carry over
+ in subtraction.
+
+Purple Ponytail Girl:
+•Any first grader
+ can do a cartwheel,
+•don't you think?
+
+Room 103
+
+Red Hat Kid:
+•Have you played
+ Super Mario Bros.7?
+•I'm still playing
+ Super Mario Bros.3.
+•It's been quite
+ a challenge for me.
+
+Purple Ponytail Girl:
+•Did you see a
+ strange man
+ in the lab?
+•Well...
+ I saw him.
+
+Blue Pigtail Girl:
+•You are late,
+ aren't you!?
+
+Room 104 (science lab)
+
+Weird Teacher:
+(until you say Yes)
+•I'm the Mysterious
+ Teacher. Secretly
+ I live here.
+•I need money for
+ research. Care to
+ buy an invention?
+    Yes   No
+(No)
+•You must have some
+ money for candy,
+ or such, eh?
+(Yes)
+•Well, please take
+ a look at the
+ price list.
+(if you've said Yes previously)
+•I haven't made any
+ progress since
+ your last visit.
+•Would you like to
+ look at the old
+ list?
+    Yes   No
+(No)
+•You must have some
+ money for candy,
+ or such, eh?
+(Yes -- no text)
+(if not enough money)
+•Oh?  You don't
+ seem to have
+ enough money.
+(if not enough space)
+•Oh?  You seem to
+ have too much to
+ carry.
+(if you selected the Real Rocket)
+•This is [ITEM],
+ right? Thank you.
+ It's a big help.
+•Here, let me show
+ you how. Just take
+ this switch and...
+•Oh no!
+ I pushed it by
+ mistake!
+•Oops! It's gone
+ into orbit.
+•A success...
+•sort of.
+(says this at the end unless Real Rocket)
+•Please drop in
+ anytime,
+•I'm always working
+ on a new invention.
+
+Room 105 (nurse's office)
+
+Nurse:
+•Small wounds can
+ be treated here,
+•but real sickness
+ must be treated in
+ the hospital.
+(heal)
+
+Room 106 (janitor's room)
+
+Janitor:
+(if you haven't checked the roof yet, says this if you try to enter the room)
+•I'm busy, So I
+ can't help you
+ right now.
+•You'll have to come
+ back later.
+(otherwise)
+•Of course the door
+ to the roof is
+ locked!
+•We can't have
+ students sneaking
+ out to play games,
+•when they should
+ be studying, you
+ know!
+    Yes   No
+(No)
+•Please, please
+ have some tea.
+(Yes)
+•It's not that big
+ of a problem.
+•My wife is a
+ bigger problem.
+•She doesn't get
+ out of bed
+•until after noon
+ each day.
+•She won't even
+ pack me a brown
+ bag lunch!
+•Isn't that just
+ horrible.
+    Yes   No
+(No)
+•Kids don't know
+ the sorrows of
+ real life...
+(Yes)
+•Then, when she
+ does get up,
+ she goes shopping.
+•Luckily, I hid the
+ credit cards from
+ that woman!
+•Don't you think
+ she's a terrible
+ wife.
+    Yes   No
+(Yes)
+•How dare you talk
+ about my wife
+ like that, scram! 
+(No)
+•When she was
+ young, she was
+ very pretty,
+•come to think of it,
+ she's not that
+ bad after all.
+•Would you like some
+ tea?
+    Yes   No
+(No)
+•When you're old
+ you'll wish that
+ young punks
+•would respect you!
+(Yes)
+•You are a pretty
+ good kid.
+•You say you need
+ to go up to the
+ roof? Follow me.
+(...)
+•My wife was the 1st
+ Miss Merrysville in
+ history.
+(...)
+•OK, I've unlocked
+ the roof. While
+ you're up there...
+•Make sure to take
+ in the view. It is
+ unforgettable. 
+(if he's already unlocked the door for you)
+•Please, please
+ have some tea.
+
+Floor 2 Hallway
+
+White Hat Kid:
+(if you don't have Lloyd)
+•We've been picking
+ on that weakling
+ [LLOYD], right?
+(if you do)
+•You stupid jerk!
+
+Red Hat Kid:
+(if you don't have Lloyd)
+•I was picking
+ on that weakling,
+ [LLOYD].
+•But he got away.
+(if you do)
+•Hey, [LLOYD]!
+ You weakling!
+
+Room 201
+
+Blue Hat Kid:
+•It's too bad that
+ the door to the
+ roof is locked.
+ Maybe you'd like
+ to join me...
+•I was going to
+ sneak out and play
+ with my Game Boy.
+    Yes   No
+(Yes) (No)
+•You don't talk
+ very much, do you?
+
+Red Hat Kid:
+•I heard Strawberry
+ Tofu is popular
+ in big cities.
+•I'd like to taste
+ some.
+
+Blue Headband Kid:
+•The gym teacher
+ made me do extra
+ push-ups again.
+•I'd rather do sit-
+ ups though.
+
+Room 202
+
+Blue Headband Kid:
+•I am hungry.
+ Let's do lunch.
+
+Blue Pigtail Girl:
+•How can you get
+ lost in a
+ schoolyard?
+•I just can't
+ believe it.
+
+Purple Ponytail Girl:
+•Don't take me for
+ an ordinary man.
+•Those are Dad's
+ favorite words.
+
+Room 206
+
+Purple Ponytail Girl:
+•Laa, la laaa....
+ Dandelion seeds fly
+ up to the sky,
+ laa, la laaa...
+•I love music
+ most of all.
+
+Red Hair Pigtail Girl:
+•Keep quiet in the
+ library!
+•Ahh--choo!!
+(gives you a cold)
+
+White Hat Kid:
+•I think [LLOYD]
+ will grow up and
+ be a computer
+ engineer.
+
+Roof
+
+Lloyd:
+(first time)
+•Who are you?!
+ I won't come out.
+•If I do, everyone
+ will pick on me.
+(second time)
+•You want to be
+ my friend?
+•Don't tell anyone,
+ but I stole some
+ explosives.
+    Yes   No
+(No)
+• ......
+(Yes)
+•I'm coming out
+ now.
+(comes out of trash can)
+(third time)
+•Hi, I am [LLOYD].
+ I wanted to fly
+ the Bottle Rockets
+•that the Sweet-
+ Little Factory
+ was producing.
+(if you have the bottle rocket)
+•Wow!  This Bottle
+ Rocket is sure to
+ cause a bang.
+•We may be able to
+ make some more on
+ our own.
+•Come with me
+ to the lab. 
+(...)
+•Later we should go
+ to Duncan's
+ Factory...
+•I've heard they're
+ constructing an
+ incredible rocket.
+(...)
+•They call me names,
+ weakling or four
+ eyes, or worse...
+•I'm sure that
+ you've heard them.
+(...)
+•([LLOYD]) Your
+ Bottle Rocket and
+ my...
+•great, isn't it...
+ Whaaaaat!?
+(blows up the room)
+
+
+Duncan's Factory
+
+Factory Guard Dog:
+•This factory is
+ Mr. Duncan's
+ private property.
+•Let's see your
+ Pass!
+(if using the pass on him)
+•This Pass has
+ expired. You must
+ have stolen it!
+•Suspicious
+ creature.
+•Look me
+ in the eye!!
+(...)
+
+
+Union Station
+
+Blond Black-Shirt Man:
+•I heard on the
+ radio that it's a
+ mess everywhere.
+•At all costs I
+ will protect this
+ station.
+
+
+Train Tunnel
+
+Bones:
+•Get on the train,
+ or you will have a
+ hard time like me.	
+
+
+ENEMY DESCRIPTIONS
+------------------
+
+Skunk:
+Hold your nose!
+
+Bag Lady:
+Her refrigerator-shaped body holds a heart of ice.
+
+Eagle:
+Its quickness is the source for its pride.
+
+Wolf:
+Watch out for those pearly whites!
+
+Bear:
+Somebody ate his porridge, and he isn't too happy about it!
+
+Cougar:
+It is quite different than a pet cat.
+
+Mad Car:
+No one is in the driver's seat.
+
+PsychoCar:
+Hypnotism does not work on this car.
+
+Mad Truck:
+Be careful of its exhaust if you're asthmatic.
+
+Maniac Truck:
+What's going to happen next: speeding, reckless driving, or...?
+
+Psycho Truck:
+Hypnotism does not work on this vehicle.
+
+Barbot:
+Is it a malnourished robot?
+
+Li'l Saucer:
+It's only as big as a dinner plate.
+
+Fugitive:
+He can be found on the FBI's most wanted list.
+
+Rope:
+Don't let yourself get tied up fighting this guy.
+
+(Sweet's Factory)
+Rat:
+A big rat with a tail this long.
+
+(Duncan's Factory)
+Stray Dog:
+I wonder if it carries fleas?
+
+Dr. Distorto:
+His twisted face covers his twisted mind.
+
+Old Robot:
+Hypnotism does not work on this robot.
+
+Scrapper:
+It's ragged around the edges, but do not underestimate it.
+
+Fire Ball:
+It looks like it jumped out of a comic book.
+
+Bomber:
+It's shaped like an egg but is a little tougher.
+
+(Train tracks)
+Gabilan:
+Something like this should not exist on the earth...
+
+Starman:
+A man from the stars.
+
+Ultra Barbot:
+It's the latest in the product line.
+
+Tarantula:
+Poison, poison, poison.
+
+Omega Saucer:
+This is as big as a manhole cover.
+
+Nancy:
+Do not be tricked by her smile.
+
+Scorpion:
+It's poisonous, but Insecticide works.
+
+Energy Robot:
+It's a walking fuel supply.
+
+BionicScorp:
+Beware of its poison and Stone of Origin.
+
+
+CHECK DESCRIPTIONS & MISC. TEXT
+-------------------------------
+
+Sign in the south part of town:
+•     Twinkle
+  Elementary School
+       SOUTH
+
+Sign east of hotel:
+•Coming this fall-
+ Duncan's
+ Debutantery
+•Financing by,
+ Architectural by,
+ Construction by,
+•The Duncan
+ Company Inc.
+
+Sign outside of hospital:
+•Welcome to
+ Merrysville!!
+•Cheap, fast
+ and handsome.
+•The best doctor is
+ Old Sawbones
+ Benny.
+•Take advantage of
+ specially priced
+ treatments now!!
+•Whether dead or
+ alive, protect
+ your life.
+
+Sign north of town:
+•Welcome to
+ Merrysville!
+•      Podunk
+        WEST
+•  Union  Station
+       NORTH
+
+Stairs in elementary school:
+•There's a padlock
+ on the door at the
+ top of the stairs.
+
+Lloyd's trash can:
+•?
+
+Sign outside Sweet's Factory:
+• Sweet's Little
+      Factory
+
+Pass:
+•[SOMEONE] found a
+ Pass that someone
+ had left behind.
+(if you can't hold anything else)
+•Can't carry
+ anything else.
+(else)
+•[SOMEONE] picked up
+ the Pass.
+
+Rocket:
+(if you don't have Lloyd)
+•Old, rusty rocket.
+(else)
+•([LLOYD]) Aim on
+ the rock...
+ OK! 1-2-3 Fire!!
+(blasts off)
+
+Last Weapon:
+•If that is true,
+ push the POWER off,
+•but remember to
+ hold in RESET!
+
+
+REINDEER
+========
+
+DIALOGUE
+--------
+
+North Reindeer
+
+Purple Woman:
+•The old man on
+ the mountain is so
+ generous...
+•He'll give you
+ as much as you can
+ possibly carry.
+
+Blue Mustache Man:
+(if you don't have Ana's hat)
+•Go ahead, poke
+ your nose into
+ other people's
+•business. It's
+ what makes playing
+ the game so fun.
+(if you do)
+•Hey, that Hat
+ you're carrying
+ looks just like
+•the one that
+ [ANA] of Snowman
+ lost.
+•If you return it
+ to her, she just
+ may reward you.
+
+Blond Blue-Shirt Man:
+•High in the
+ mountains, lives
+ an old man.
+•Legends say he
+ hasn't had a cold
+ in 300 years.
+
+Scuzzy Kid:
+•You thought I was
+ going to beg for
+ food, didn't you?
+•I wouldn't do that,
+ even though I am
+ ever so hungry.
+
+Blond Blue-Shirt Man:
+•I wish that I had
+ a bicycle.
+
+Cool Dude:
+•Gasp!! You
+ startled me.
+•For college credit
+ I study indoor
+ architecture.
+•That's the whole
+ truth, and nothing
+ but the truth!!
+
+Old Lady:
+•This is a
+ residential area,
+ please keep quiet.
+
+Fat Lady:
+•I remember walking
+ through the tunnel
+ when I was young.
+•I went to see what
+ was on the other
+ side.
+
+Red Dress Lady:
+•Somewhere in the
+ town of
+ Spookane...
+•I heard that
+ there's a
+•gh...
+•gho..
+•ghost..
+ Ghost house!!
+•Don't you ever
+ dare to go there!!
+
+Purple Woman:
+•Have you ever
+ thrown food out
+ into the field?
+•Well, it's a game,
+ but it is pretty
+ wasteful.
+
+
+South Reindeer
+
+Blond Black-Shirt Man:
+•I heard someone
+ died from a cold.
+ Just a cold!
+
+Blond Blue-Shirt Man:
+•I am a man whose
+ existence does not
+ matter.
+•My importance is
+ so small,
+•that I may not
+ be missed should
+ I disappear.
+
+Cool Dude:
+•I don't believe in
+ Psychic Powers.
+
+Policeman:
+•Did you see the
+ man with the slick
+ mustache?
+    Yes    No
+(Yes)
+•Must have lost
+ him. Couldn't help
+ it...
+•Anyhow, I must go
+ check for parking
+ violations now.
+(No)
+•He's a swindler!
+ Please let me know
+ if you see him.
+
+Blue Mustache Man (Swindler):
+(if he hasn't given you the money)
+•Hey Kid!
+ Just hold onto
+ this money for me.
+•Don't tell the
+ cops or anyone
+ about it!
+    Yes    No
+(No)
+•Just do what I
+ tell you!
+(Yes)
+•Don't run away
+ with it!
+(if he's already given you the money)
+•Leave me alone!
+ Can't you see I'm
+ incognito?
+
+Purple Woman:
+•I love life in the
+ city!
+•I look so great in
+ cute dresses!
+
+Cool Dude:
+•Oh yeah?
+ Are you ready?
+ All-right!!
+    Yes    No
+(No)
+•Fine, be that way.
+(Yes)
+•Hey!!
+ Wanna hear my
+ song!?
+    Yes    No
+(No)
+•It's time to say
+ good-bye...
+(Yes)
+(music changes)
+•The good-looking
+ boy sang a quite a
+ unique song.
+(music changes back)
+•[SOMEONE] did not
+ want to remember
+ this strange melody.
+
+Blond Blue-Shirt Man:
+•The store will buy
+ good medicine for
+ good money.
+
+Red Dress Lady:
+•I love this town!
+ I wouldn't be
+ caught dead in
+•Spookane! Ha ha!
+
+Red Dress Lady:
+•......
+(if using Telepathy)
+•Did you hear the
+ Dragon's lullaby?
+
+Scuzzy Kid:
+•Give me something.
+ Whatever it is,
+ just give it to me.
+•Gimme gimme.
+•Please, give me.
+•Why won't you give
+ it to me? I said
+ please?
+    Yes    No
+(Yes)
+•I promise, I'll
+ give you something
+ in return.
+•What are you going
+ to give me?
+(after selecting an item)
+•Thanks a lot.
+ To show my
+ gratitude I'll
+•give you this
+ Flea Bag.
+ Please take it.
+(if canceling selection or saying No to the previous question)
+•I'm thinking of
+ something nice
+ to give you.
+
+Blond Black-Shirt Man:
+•There's a flu going
+ around here.
+ Cough, cough.
+
+Blond Blue-Shirt Man:
+•This town has
+ become dangerous!
+•But it's still a
+ much better place
+ than Ellay.
+
+Policeman:
+•Have you seen the
+ woman with a big
+ belly?
+    Yes    No
+(No)
+•She ate
+ 5 [FOOD]s,
+•then ran away
+ without paying.
+•If you see her,
+ let me know!
+(Yes)
+•Must have lost
+ her. Couldn't
+ help it...
+•Anyway, I'm going
+ to check for
+ speeders instead.
+
+Fat Lady:
+•Oh, I'm so full!!
+
+Old Lady:
+•Would you like to
+ make a donation to
+ my charitable fund?
+
+
+Department Store
+
+Black Dress Woman:
+•You seem to have
+ quite an appetite.
+
+Weapon Guy:
+•Welcome to our shop.
+ We sell weapons.
+(after selecting an item)
+•You mean
+ [ITEM]?
+    Yes    No
+(if canceling selection or saying No)
+•Are you sure you
+ don't need that?
+ Well, come again.
+(Yes)
+(if not enough space)
+•I am afraid you
+ can't carry
+ anything more.
+(if not enough money)
+•I'm sorry, but you
+ just don't have
+ enough money.
+(else)
+•Do you want
+ anything else?
+    Yes    No
+(No)
+•Thank you very
+ much. Please
+ visit us again.
+
+
+Reindeer Station
+
+Old Lady:
+•Are you going to
+ Snowman?
+    Yes    No
+(No)
+•Well, I had
+ something to ask
+ you.
+(Yes)
+•I found this Hat.
+ I believe it's the
+ property of a girl
+•who lives there.
+ Please take it to
+ her.
+(if you can't hold anything else)
+•You can't carry it?
+ What a shame!
+(else, leaves)
+
+
+Hospital
+
+Blue Hair Glasses Man:
+•I don't have a
+ cold.
+ Cough, cough, hack.
+•I'm just talking
+ to myself.
+ Cough, hack hack.
+
+Young Blond Man:
+•This year's flu is
+ go bad. I lost so
+ much weight.
+
+
+Hotel
+Lobby
+
+Cool Dude:
+•Hi [SOMEONE], I'll
+ catch you later,
+•I'm a little busy
+ right now.
+
+Room 201
+
+Old Lady:
+•Pardon me young
+ whipper-snappers...
+•I didn't really
+ mean to talk all
+ night, but...
+(gives you a cold)
+
+Room 202
+
+Blond Blue-Shirt Man:
+•You young little...
+ Don't talk to me
+ that way!
+
+Top-Floor Restaurant
+
+Blue Mustache Man:
+•A restaurant, rant,
+ rant, rant...
+ Happy restaurant,
+•rant, rant, rant...
+ Are you happy?
+
+Blond Blue-Shirt Man:
+•Hey, waiter...
+ I'm still waiting
+ for some service.
+
+Purple Woman:
+•I want to try
+ [FOOD].
+
+
+Healer's House
+
+Healer:
+•Believe it or not,
+ I am a Healer.
+ What do you want?
+    Refresh   Soften
+(Refresh)
+•Give me $[PRICE]
+ for that.
+    Yes    No
+(Yes)
+(after selecting a character)
+(if character doesn't use PSI)
+•I see everything
+ with you is fine.
+(else)
+•There you have it!
+ I've fixed it like
+ a true expert.
+(Soften)
+•Give me $[PRICE]
+ for that.
+    Yes    No
+(Yes)
+(if multiple party members)
+•Who needs to be
+ softened?
+(if success)
+•There you have it!
+ I've fixed it like
+ a true expert.
+(if not turned to stone)
+•You have not been
+ turned to stone.
+(No to either)
+•OK, do what you
+ want to.
+(if not enough money)
+•Oh?  You don't
+ seem to have
+ enough money.
+
+
+Immune Old Man's House
+
+Old Man's Apprentice:
+(before giving the man his dentures)
+•I can't understand
+ a word the old man
+ says either.
+(afterwards)
+•Mouthwash again?
+ Here it is.
+ Go ahead, take it.
+•But, I have to
+ charge you
+ $[PRICE]
+ this time.
+•Gargle gargle
+ gargle... Splash!
+    Yes    No
+(No)
+•Are you sure you
+ don't need that?
+ Well, come again.
+(Yes)
+(if not enough space)
+•Let's see... 
+ It seems that your
+ load is too heavy.
+(if not enough money)
+•Hmm...
+ You don't have
+ enough money.
+(else, doesn't say anything)
+
+Old Man:
+(before returning dentures)
+•Mmm, hmm meh heh,
+ hmm, heh mehah,
+ hmmm, heh hmmumm!
+(if using Telepathy)
+•I can't talk very
+ well without my
+ Dentures.
+(if using the dentures on him)
+•So nice to have my
+ Dentures back once
+ more. Your reward?
+•With you I'll
+ share my secret to
+ long, long, life.
+•Gargle often.
+ Gargle proud.
+ Gargle strong.
+•And if you catch a
+ cold, gargling
+ will help.
+•Here is a Mouth-
+ wash I concocted
+ myself. Take it!
+(after he's got his dentures back)
+•May you live a
+ long life.
+
+
+ENEMY DESCRIPTIONS
+------------------
+
+Skunk:
+Hold your nose!
+
+Bag Lady:
+Her refrigerator-shaped body holds a heart of ice.
+
+Eagle:
+Its quickness is the source for its pride.
+
+Wolf:
+Watch out for those pearly whites!
+
+Bear:
+Somebody ate his porridge, and he isn't too happy about it!
+
+Cougar:
+It is quite different than a pet cat.
+
+Mad Car:
+No one is in the driver's seat.
+
+PsychoCar:
+Hypnotism does not work on this car.
+
+Mad Truck:
+Be careful of its exhaust if you're asthmatic.
+
+Maniac Truck:
+What's going to happen next: speeding, reckless driving, or...?
+
+Psycho Truck:
+Hypnotism does not work on this vehicle.
+
+Barbot:
+Is it a malnourished robot?
+
+Lil' Saucer:
+It's only as big as a dinner plate.
+
+Fugitive:
+He can be found on the FBI's most wanted list.
+
+Rope:
+Don't let yourself get tied up fighting this guy.
+
+Starman:
+A man from the stars.
+
+Stray Dog:
+I wonder if it carries fleas?
+
+
+CHECK DESCRIPTIONS & MISC. TEXT
+-------------------------------
+
+Mislay Triangle Sign:
+•Now entering the
+ Mislay Triangle.
+ Watch out!
+(if you haven't found the dentures)
+•Someone lost his
+ Dentures right
+ under the sign!
+(if you can't hold any more stuff)
+•Can't carry
+ anything else.
+
+Sign north of town:
+•  Healer's House
+        WEST
+• Reindeer Station
+        EAST
+•   Reindeer Town
+        SOUTH
+
+
+SNOWMAN
+=======
+
+DIALOGUE
+--------
+
+North Snowman
+
+Cool Dude:
+•Please say hello to
+ the camel's bones in
+ Yucca Desert.
+•I knew that camel
+ once upon a time.
+
+Purple Woman:
+•Oh my, your nose
+ is running.
+
+Blue Mustache Man:
+•It's freezing here
+ in Snowman.
+•Don't catch your
+ death of cold.
+•Brush your teeth,
+ too.
+•Hack hack wheez...
+
+
+South Snowman
+
+Blond Blue-Shirt Man:
+(before you get Ana, or if Ana's unconscious)
+•[ANA] hasn't been
+ to school lately,
+ I'm so worried.
+(after you get her)
+•I'm concerned
+ about [ANA].
+•I am so worried I
+ can't sleep.
+
+Old Lady:
+•[ANA]'s house is
+ a chateau, not a
+ mansion.
+•But, I'll bet you
+ already knew that.
+
+Blond Blue-Shirt Man:
+•I heard everyone
+ in Youngtown has
+ disappeared.
+
+Purple Woman:
+•Life is a game.
+ But sometimes you
+ have to rest.
+
+Blue Mustache Man:
+•You kids are crazy.
+ Running around with
+ just T-shirts on.
+•Cough cough
+ cough cough...
+
+Blond Blue-Shirt Man:
+•There is a chateau
+ in the mountains
+ to the east.
+•Cough cough
+ cough cough...
+
+Red Dress Lady:
+•My grandfather
+ lives in Yucca
+ Desert.
+•If you see him,
+ please say hello
+ for me.
+
+
+Snowman Station
+
+Red Dress Lady:
+•Mom left for
+ Youngtown.
+•We haven't heard
+ from her for days
+ now.
+•Dad and I are
+ going there to
+ look for her.
+
+Blue Mustache Man:
+•I was on my way to
+ Youngtown to look
+ for my wife.
+•But, without the
+ train running, how
+ can I get there?
+
+Fat Man (outside the station):
+•I am a clairvoyant
+ still in training.
+•However this much I
+ can see...
+•You shall return
+ again to Union
+ Station.
+•Although I'm not
+ completely sure.
+
+Ticket Guy:
+•This is Snowman
+ Terminal.
+(followed by standard train text)
+
+
+Healer's House
+
+Healer:
+•Believe it or not,
+ I am a Healer.
+ What do you want?
+  Refresh  Soften
+(Refresh)
+•Give me $[PRICE]
+ for that.
+    Yes    No
+(Yes)
+(after selecting a character)
+(if character doesn't use PSI)
+•I see everything
+ with you is fine. 
+(else)
+•There you have it!
+ I've fixed it like
+ a true expert.
+(Soften)
+•Give me $[PRICE]
+ for that.
+    Yes    No
+(Yes)
+(if multiple party members)
+•Who needs to be
+ softened?
+(if success)
+•There you have it!
+ I've fixed it like
+ a true expert.
+(if not turned to stone)
+•You have not been
+ turned to stone.
+(No to either)
+•OK, do what you
+ want to.
+(if not enough money)
+•Oh?  You don't
+ seem to have
+ enough money.
+
+Phone:
+•This is your Dad.
+(if not previously called from here)
+•Excuse me, I need
+ to see the person
+ playing this game.
+    Yes    No
+(No)
+•I have some very
+ important things
+ to talk about.
+(jump back to "Excuse me, I need to see the person playing this game")
+•Hello there...
+•I appreciate your
+ kindness to
+ [NINTEN].
+•I am the boy's
+ Dad...
+•Could you please
+ let me know your
+ name?
+•Thank you for your
+ cooperation.
+(after entering your name)
+•Are you sure that
+ it is spelled
+ correctly?
+    Yes    No
+(No)
+•Let me register
+ your name once
+ more.
+(re-enter name)
+(Yes)
+•Thank you for
+ spending your time
+ with me.
+•I too have urgent
+ things to do, so
+ I'd better go now.
+(if already entered your name, then standard phone text)
+
+
+Snowman Chateau
+
+Ana:
+•You have appeared.
+ Just like in my
+ dream...
+•The boy in my
+ dream looked just
+ like you.
+(using her hat on her)
+•Are you [SOMEONE]?
+    Yes    No
+(Yes -- skip to "I must go on a trip to find my Mom")
+(No)
+•Don't get silly on
+ me now.
+•I must go on a
+ trip to find my Mom,
+ and...
+•I needed your
+ help...
+•So I've been
+ waiting for you,
+ [SOMEONE].
+•First let's go see
+ what is happening
+ in Youngtown.
+(...)
+•([ANA])
+ Daddy...
+ Good-bye...
+•Next time, Mommy
+ will come back
+ with me!
+•Believe in us!
+
+Ana's Dad:
+(before you get Ana)
+•My daughter,
+ [ANA] has never
+ been a brave girl,
+•but, she is kind
+ of heart, and has
+ a secret strength.
+(afterwards, if Ana is alive)
+•I know success
+ will be yours in
+ the end.
+•Surely, our pleas
+ will be heard in
+ the near future.
+•For now, just have
+ a peaceful sleep.
+(sleep)
+•I must stay here
+ with the people of
+ Snowman.
+•Please take care...
+(if Ana is unconscious)
+•I believe that
+ [ANA] may still
+ be found somewhere.
+
+
+ENEMY DESCRIPTIONS
+------------------
+
+Big Foot:
+Surprised? It really does exist!
+
+Polar Bear:
+His chair was broken, and he isn't very happy!
+
+Lone Wolf:
+It seems that it does not have any friends.
+
+Silver Wolf:
+Its marvelous silver coat glistens and gleams.
+
+
+CHECK DESCRIPTIONS & MISC. TEXT
+-------------------------------
+
+Sign east of town:
+•Snowman Chateau
+ Straight Ahead
+
+
+SPOOKANE
+========
+
+DIALOGUE
+--------
+
+North Spookane
+
+Hat Man:
+•Have you heard
+ that their is
+ a ghost house
+ in Spookane?
+   Yes    No
+(No)
+•Hey kid, what you
+ don't know will
+ never hurt you!
+(Yes)
+•I heard a spooky
+ tale about that
+ vacant house...
+•they say that the
+ piano still plays
+ a haunting melody.
+
+Blond Blue-Shirt Man:
+•I'm the jolly
+ postman,
+ laa laaa, la la.
+•Have you heard
+ the Rosemarys
+ new address?
+•La la la laaa.
+
+Blond Blue-Shirt Man:
+•The owners of the
+ ghost house were the
+ Rosemarys.
+
+Blue Hat Kid:
+•A ghost appeared
+ at my house too.
+•But, he didn't
+ stay long.
+•He thought my room
+ was too small.
+
+Red Hat Kid:
+•I am the only
+ clown in
+ Spookane.
+•Everyone else is
+ so serious.
+   Yes    No
+(No)
+•Is that right?
+•I may be the true
+ pessimist myself.
+(Yes)
+•Truth is, by
+ nature I'm not a
+ jolly guy.
+
+
+South Spookane
+
+Purple Ponytail Girl:
+•Tell the postman
+ who seeks the
+ forwarding address,
+•that the
+ Rosemarys have
+ moved far away.
+•La la la laaa.
+
+Blue Pigtail Girl:
+•The streets are
+ filled with
+ monsters,
+•the people have
+ run away.
+
+Blond Blue-Shirt Man:
+•What do you want?
+
+Red Dress Frizzy Hair Lady:
+•I don't like the
+ little Rosemary
+ girl!
+
+Hat Man:
+•My house is filled
+ with monsters,
+ mostly ghosts.
+•That's why we live
+ life in the great
+ outdoors now.
+
+Mrs. Rosemary:
+(before you get the key)
+•Oh, you are such
+ a charming boy...
+•Just looking at
+ you makes me feel
+ so confident.
+•I'm sure you'll
+ bring that house
+ into control.
+•Here is the Key to
+ it.
+(if you can't hold any more items)
+•You can't carry
+ anything more. 
+ See you later...
+(after you get the key)
+•Having a tough
+ time?
+ I'm so worried.
+(after you get the melody)
+•The ghosts aren't
+ gone yet, but...
+•what a brave boy
+ you are!
+•I've renamed my
+ son [NINTEN],
+ after you.
+(after you've already talked to her after getting the melody)
+•[NINTEN]!
+ Get your grubby
+ little...
+•No cutie, I was
+ talking to my boy.
+
+Ninten Rosemary:
+•Hi there, my name
+ is [NINTEN].
+•It used to be
+ Buggerror
+ Rosemary.
+
+Hint Lady:
+•I'm not a resident
+ of this town. I
+ am your assistant.
+•Maybe you forgot
+ to write something
+ down?
+•I will sell you a
+ hint for only 1000
+ dollars?
+   Yes    No
+(No)
+•Oh, you don't need
+ anyone's help, do
+ you?
+•Fine and dandy,
+ you can color me
+ gone.
+(disappears)
+(Yes)
+(if not enough money)
+•You don't have
+ enough money.
+ Sorry, come again.
+(else)
+•I can sell only 3
+ hints. Discover
+ the rest youself.
+(first hint)
+•The ghost house is
+ not a place for
+ slaying monsters.
+•There is a...
+ melody, hee-hee,
+ a haunting melody.
+•Hee-hee-hee.
+(second hint)
+•A lady at Reindeer
+ Station has some-
+ thing for you...
+•Have you gone there
+ and met her yet?
+(third hint)
+•The most important
+ hint to remember
+ though is...
+•No matter how much
+ it hurts your ears
+ to do so...
+•Listen to the words
+ in the song by
+•Magicant's guitar
+ player.
+(disappears)
+
+
+Hotel
+
+Evil Receptionist:
+•Welcome!
+ $[PRICE]
+ for a night.
+ Care to stay?
+   Yes    No
+(No)
+•Sorry to hear that.
+ Please visit us
+ again.
+(Yes)
+•Sleep tight...
+ and don't let the
+ bed bugs bite.
+•Ahh - Ha ha ha...
+(sleep)
+•Thank you very
+ much.
+(after being beaten, disappears)
+
+
+Rosemary House
+
+Suspicious Rat:
+•I'm just an
+ ordinary mouse.
+•The room with
+ the piano...
+ Hee hee hee...
+
+
+ENEMY DESCRIPTIONS
+------------------
+
+Eagle:
+Its quickness is the source for its pride.
+
+Wolf:
+Watch out for those pearly whites!
+
+Bear:
+Somebody ate his porridge, and he isn't too happy about it!
+
+Cougar:
+It is quite different than a pet cat.
+
+Barbot:
+Is it a malnourished robot?
+
+Li'l Saucer:
+It's only as big as a dinner plate.
+
+Starman:
+A man from the stars.
+
+(Rosemary House)
+Alarm Ghost:
+Don't alarm this ghost, he has friends!
+
+Dust Ghost:
+AHH-choooo!
+
+Shroudley:
+An evil, caped zombie. Beware, its 'Last Strike' could be devestating.
+
+Ghost:
+It's just an ordinary ghost.
+
+Zombie:
+Careful, he knows 'Brain Shock'.
+
+Nasty Zombie:
+It attacks with its bare hands.
+
+Armor:
+It would be nice to have a suit of armor of your own.
+
+Bionic Bat:
+Beware of its Stone of Origin.
+
+
+CHECK DESCRIPTIONS & MISC. TEXT
+-------------------------------
+
+Sign east of downtown:
+• Spookane Downtown
+        WEST
+•Spookane Residental
+        EAST
+
+Sign south of Rosemary House:
+•PRIVATE PROPERTY
+ (signed)-
+ The Rosemarys
+
+Rosemary House Door:
+•The door is locked.
+(if using wrong key -- BasementKey, Zoo Key, etc.)
+•That Key does not
+ fit this lock.
+(if using the Haunted Key)
+•[SOMEONE] unlocked
+ the door and went
+ inside.
+
+Ghost House (these appear in various places before you get the melody):
+•Nobody's here.
+ Hee hee hee...
+
+•This is your worst
+ nightmare. You
+ cannot get away!
+•Hee hee hee...
+
+•T U R N  B A C K
+
+•Aaagghhhhhhhhhh....
+
+•You'll never make
+ it...
+ Hee hee hee hee.
+
+Ghost Piano:
+•The Piano began to
+ play all by
+ itself...
+•[SOMEONE] remembered
+ the tune.
+
+
+YUCCA DESERT
+============
+
+DIALOGUE
+--------
+
+Desert
+
+Bones:
+•Conversing with a
+ corpse? What a
+ brave kid!
+
+Nice Bones:
+•I am just a pile
+ of bones now.
+•I used to be a
+ nice guy before.
+•So, don't worry, I
+ won't attack you.
+
+Camel Bones:
+•I'm the bones of a
+ camel.
+•Want to know how to
+ walk when in the
+ desert?
+   Yes    No
+(No)
+•I'd very much like
+ to tell you.
+•Wouldn't you like
+ to know?
+   Yes    No
+(No: jump back to "I'd very much like to tell you")
+(Yes to either)
+•Move your left
+ foot before your
+ right foot sinks.
+•Move your right
+ foot before your
+ left foot sinks.
+•It took me 100
+ years to figure
+ that out.
+
+Bored Bones:
+•Yucca Desert is
+ the most boring
+ part of this game.
+•But, stay on your
+ toes, this desert
+ has been mined.
+
+Pilot:
+(first time)
+•During the last
+ war, I laid mines
+ in this desert.
+•I removed all but
+ one of them, so
+ watch your step.
+(other times)
+•Oh, you want a
+ ride on the plane?
+   Yes    No
+(No)
+•Well, it is quite
+ expensive...
+ I don't blame you.
+(Yes)
+•Which flightplan
+ would you like?
+(after selecting a course)
+•The airfare is
+ $[PRICE]
+ for that
+ flight.
+•Save your Ticket
+ Stubs.
+•After you get 10
+ stubs, you can
+ take the tank.
+•You look so happy
+ about that.
+ Ha ha ha...
+(if not 3 free inventory slots)
+•Oh?  You seem to
+ have too much to
+ carry.
+(if not enough money)
+•You don't have
+ enough money. Come
+ back when you do.
+(using ticket stubs on him)
+(if you don't have 10 ticket stubs)
+•No, that's not
+ quite enough.
+(if you do)
+•Great! I see you
+ saved 10 stubs.
+ Take my tank.
+•You sure look
+ happy.
+ Ha ha ha...
+
+Monkey Cave
+Upper Level
+
+Monkey:
+•Most monkeys here
+ will lie to you.
+ Beware!
+
+Monkey:
+•It's so quiet here,
+ but too quiet for
+ me, I think.
+
+Lady (?) Monkey:
+•I am a lady...
+ Don't talk to me
+ so casually.
+   Yes    No
+(No)
+•Hmmm.
+(Yes)
+•The truth is...
+ I am a man.
+
+Monkey:
+•I've got a good
+ story to tell you.
+ Want to hear it?
+   Yes    No
+(No)
+•Have you no
+ intellectual
+ ambitions?
+(Yes)
+•Well...
+ You should be nice
+ to friends.
+•That's all I've got
+ to say.
+
+Monkey
+•In the town by the
+ sea, you'll meet a
+ new friend.
+
+Lower Level
+
+Monkey:
+•Just walk straight!
+ Find truth at the
+ end of the path.
+
+Monkey:
+•How long did it
+ take you to get
+ here?
+
+Monkey:
+•Retreat!
+ And if you don't
+ want to...
+•Go back!
+•Oh, never mind.
+ Go forward!
+
+Speedy Monkey:
+•You caught up with
+ me. I'll admit
+ that's something.
+•Here I'll give you
+ something nice.
+
+Monkey:
+•Turn right, then
+ left, to find
+ something nice.
+
+Monkey:
+•Don't go any
+ farther inside!
+
+Monkey:
+•I don't trust
+ these monkeys. 
+ They're all liars.
+•By the way, go
+ right, left, left
+ and right.
+
+Weird Monkey:
+•Oh [ANA] baby,
+ Hubba hubba,
+ what a dish.
+
+Monkey:
+•Don't believe that
+ all monkeys are
+ liars.
+•That's nothing but
+ a lie.
+
+Boss Monkey:
+•I'm the boss
+ monkey.
+•I'm really annoyed
+ that the others
+ tell so many lies.
+•Go straight ahead,
+ You'll find an
+ exit to your right.
+
+Other Singing Monkey:
+•La la la, la la ...
+ Never mind, this
+ song is not yours.
+
+Judgmental Monkey:
+•Cool down dude...
+ Are you so serious
+ all the time?
+   Yes    No
+(No)
+•Good to hear it.
+ It's just a game!
+(Yes)
+•Well man...
+ It's like you don't
+ know when to quit.
+•Take a rest bud...
+
+Disguised Tanuki:
+•Huh what?
+ Do I look like a
+ monkey?
+   Yes    No
+(No)
+•You have good
+ eyesight.
+ Hats off to you...
+(Yes)
+•...I'm really a
+ raccoon pretending
+ to be a monkey.
+
+Penguin:
+•A big mistake...
+ I really shouldn't
+ have come here.
+
+
+ENEMY DESCRIPTIONS
+------------------
+
+Gabilan:
+Something like this should not exist on the earth...
+
+Starman:
+A man from the stars.
+
+Ultra Barbot:
+It's the latest in the product line.
+
+Tarantula:
+Poison, poison, poison.
+
+Omega Saucer:
+This is as big as a manhole cover.
+
+Nancy:
+Do not be tricked by her smile.
+
+Scorpion:
+It's poisonous, but Insecticide works.
+
+Energy Robot:
+It's a walking fuel supply.
+
+BionicScorp:
+Beware of its poison and Stone of Origin.
+
+Rattle Snake:
+Where's that antidote?
+
+R7307:
+He is absolutely huge!
+
+
+CHECK DESCRIPTIONS & MISC. TEXT
+-------------------------------
+
+Sign west of oasis:
+•See the Yucca
+ Desert.
+•Charter flights
+ available by
+ arrangement. 
+
+Singing cactus:
+•Wait.. A voice is
+ speaking into
+ [SOMEONE]'s mind.
+(if using Telepathy)
+•The Cactus sang...
+•and for whatever
+ reason, it kept on
+ singing.
+•[SOMEONE] remembered
+ the tune.
+
+Land Mine:
+•"Certificate"
+•[SOMEONE]
+•We acknowledge the
+ fact that you did
+ step on the mine
+•in the Yucca
+ Desert.
+•Keep this place to
+ yourself, please.
+•signed...
+ Shigesato Itoi.
+
+Magicant Spiral:
+•Wait.. A voice is
+ speaking into
+ [SOMEONE]'s mind.
+(if using Telepathy)
+•[SOMEONE] felt this
+ question enter 
+ his mind.
+•"Who has lost
+ his tail?"
+
+YOUNGTOWN & SWAMP
+
+
+DIALOGUE
+
+North Youngtown
+
+Blue Headband Kid:
+•Halt, who goes
+ there?
+
+Purple Ponytail Girl:
+•Please bring back
+ our Mom and Dad.
+ Please, I beg you. 
+
+Red Hat Kid:
+•Well...
+ 2 plus 3 equals 5,
+ 8 minus 4 equals 4.
+•I study
+ all the time.
+
+Blue Pigtail Girl:
+•Something's very
+ strange with the
+ Garrickson baby.
+•Something very
+ strange indeed.
+
+Red Pigtail Girl:
+•Please hold me!
+
+Blue Hat Kid:
+•Hold me, too!
+
+White Hat Kid:
+•Hold me!
+
+Purple Ponytail Girl:
+•Where is my Mommy?
+ Where is my Daddy?
+
+
+South Youngtown
+
+Red Pigtail Girl:
+•Hold me!
+
+Purple Ponytail Girl:
+•A big ship from
+ the sky took Mom
+ and Dad away.
+
+Red Hat Kid:
+•I heard my Dad's
+ voice coming from
+ the mountains.
+•But the mountains
+ are beyond the
+ town of Ellay.
+•It's so far away
+ I can't make that
+ journey.
+
+Red Hat Kid:
+•I like it without
+ the grown-ups
+ around.
+ Sure I do.
+ Sob, sob...
+
+
+The Garricksons' House
+
+Tom Garrickson:
+•Oh, yes.  My name
+ is Tom Garrickson.
+•I like to
+ introduce myself.
+ It's my hobby.
+
+Tom's Sister:
+•Mom told me this
+ baby has mystic
+ power.
+
+Psychic Baby:
+•Goo gaa...
+(if using Telepathy)
+•Yes, even though
+ my body is that of
+ a baby,
+•like you, I
+ possess psychic
+ abilities.
+•I know the power
+ of Teleportation.
+•Use this power to
+ return to a place
+ you've been to.
+•(The baby taught
+ them his power of
+ Teleportation)
+(if using Telepathy, but already have Teleport)
+•Teleportation is a
+ Psychic Power not
+ to be played with.
+
+
+Hotel
+
+Blond Blue-Shirt Guy:
+•Well, Dad isn't
+ home and I don't
+ care about money.
+•So if you need a
+ place to stay,
+•feel free to stay
+ here tonight.
+    Yes    No
+(No)
+•Why aren't you
+ going to spend
+ the night here?
+•Dad may not be
+ home, but it's
+ alright, trust me.
+(Yes)
+•Sleep tight...
+ and don't let the
+ bed bugs bite.
+(sleep)
+•Good morning!
+ Please come back
+ again someday.
+•If you do, I may
+ not get quite so
+ lonely here.
+
+
+Train Station
+
+Blond Black-Shirt Guy:
+•The trains have
+ stopped. The
+ track was ruined.
+•It's the end of
+ the world, and you
+ just ask questions.
+•Stop asking so
+ many questions or
+ I'll start to cry.
+
+
+Swamp
+
+Bridge Kid:
+•Suspicious guys.
+ I will stop you.
+ Arrghh!
+
+Lloyd's dad:
+•I am [LLOYD]'s
+ father.
+•I think [NINTEN]'s
+ Dad asked,
+•but you told him
+ your name?
+    Yes    No
+(No)
+•Let me register
+ your name once
+ more.
+(enters name)
+(Yes)
+(if you never actually entered a name)
+•......
+•Let me register
+ your name once
+ more. 
+(enters name)
+(after entering name, or if you said Yes before and actually did give a name earlier)
+•OK, that's fine.
+•Please look after
+ [LLOYD]. He is a
+ real weakling...
+
+Pippi:
+(says this only the first time)
+•It's me Pippi!
+ We meet once more
+ [SOMEONE]!
+•Don't say anything,
+ but I didn't tell
+ my Mom I came here.
+(says this after the above, and every time after the first)
+•You must be tired.
+ Why don't you stay
+ here tonight?
+(sleep)
+•Good morning!
+ Did you have a
+ good night's rest?
+
+
+ENEMY DESCRIPTIONS
+------------------
+
+Bison:
+A face only a mother could love.
+
+Alligator:
+Don't accept his invitation to dinner.
+
+Kelly:
+Do not be tricked by her beauty.
+
+Energy Robot:
+It's a walking fuel supply.
+
+Mook:
+It uses various PSI attacks.
+
+Red Snake:
+It gives good experience if it doesn't run.
+
+Nancy:
+Do not be tricked by her smile.
+
+Omega Saucer:
+This is as big as a manhole cover.
+
+Buffalo:
+Its father won't even look at his face.
+
+Seagull:
+That thief!
+
+Spider:
+You'll want to try Insecticide.
+
+Titanees:
+It uses hypnotism.
+
+
+CHECK DESCRIPTIONS & MISC. TEXT
+-------------------------------
+
+Sign east of Youngtown:
+•   Swamp - EAST
+
+Lloyd's dad's trashcan:
+•?
+
+
+ELLAY
+=====
+
+DIALOGUE
+--------
+
+North Ellay
+
+Red Pigtail Girl:
+•We call Bla-Bla
+ Gang members, B.B.
+ Gangs for short.
+
+Nerdy Guy:
+•While walking in
+ the desert, I saw a
+ cactus with a face,
+•then I ran for the
+ hills screaming as
+ loud as I could.
+
+Red Hair Bald Guy:
+•Did you read
+ the sign?
+
+Purple Anime Hair Guy:
+•When you talk to
+ a fisherman, you
+ can never get away.
+
+Big Hair Lady:
+•The B.B. Gang
+ members are really
+ terrible...
+
+BB Gang Member:
+•You must watch out
+ around here.
+ Hee....
+(doesn't fight you)
+
+World's Greatest Fisherman (way up north on the pier):
+•You think I'm the
+ world's greatest
+ fisherman?
+•Well, not quite
+ that great. But,
+ if you've a moment,
+•let me tell you
+ some of my fishing
+ stories.
+(sleep)
+•In the mean time,
+ dawn breaks over
+ the harbor...
+
+
+South Ellay
+
+Purple Anime Hair Guy:
+•I've got a Ticket
+ to the Live-Show.
+•You know the Store
+ is all sold out.
+•But I could part
+ with this one for
+ only $[PRICE]?
+    Yes   No
+(No)
+•Stingy kids...
+(Yes)
+•Here it is! No,
+ don't go to the
+ Store now.
+(if not enough money)
+•Not enough money.
+(if not enough space)
+•Wait a minute...
+ You can't carry it,
+ so you can't have it.
+
+Purple Anime Hair Guy:
+•Hey, you two there.
+ Sweethearts, huh!?
+    Yes   No
+(Yes)
+•Love and peace,
+ yeah!
+(No)
+•Love burns deep in
+ your heart, right?
+
+Red Hair Bald Guy:
+•The black clouds
+ that hang over
+ the mountains...
+•They're making
+ all the towns-
+ people crazy.
+
+Red Pigtail Girl:
+•It's a secret...
+ Promise not to say
+ that I told you?
+    Yes   No
+(No)
+•You'll be the one
+ who regrets it for
+ sure.
+(Yes)
+•The Bla-Bla Boss,
+ [TEDDY]'s real name
+ is...
+ [TEDDY] Junior, the
+ 3rd.
+ Ha.
+•But, it's only a
+ rumor, though.
+
+Pilot:
+•You broke my tank,
+ it was my most
+ prized possession.
+•Now you'll have to
+ pay $[PRICE] for the
+ repairs.
+•Will you make
+ restitution right
+ now?
+    Yes       No
+(No)
+•I am so angry.
+ Arrrrrrrrr!!
+(Yes)
+(if enough money)
+•Thank you,
+ and good-bye.
+(if you don't have enough money)
+•Not enough money.
+ Boo hoo hoo.
+ Ha, ha, ha...
+
+Big Hair Lady:
+•Hey you! You are
+ not a Bla-Bla, are
+ you?
+
+BB Gang Member:
+•If I fight with
+ you....
+•I will surely be a
+ loser.
+(after getting Teddy)
+•Hi! [TEDDY]!
+ How are you doin'?
+
+BB Gang Member:
+•I am a strong man.
+ That's what I say.
+ I insist this.
+(after getting Teddy)
+•Hi! [TEDDY]!
+ How are you doin'?
+
+BB Gang Member:
+•You're in the way,
+ kid!
+(after getting Teddy)
+•Hi [SOMEONE], I'll
+ catch you later,
+•I'm a little busy
+ right now.
+
+BB Gang Member:
+•Hey!
+(after getting Teddy)
+•Hi! [TEDDY]!
+ How are you doin'?
+
+BB Gang Member:
+•Hey!
+(after getting Teddy)
+•Hi [SOMEONE], I'll
+ catch you later,
+•I'm a little busy
+ right now.
+
+BB Gang Member:
+•I may have low HP,
+ but I'm gonna do
+ my best!
+(after getting Teddy)
+•Hi! [TEDDY]!
+ How are you doin'?
+
+BB Gang Member:
+•You are no match
+ for [TEDDY].
+•He could beat you up
+ with his pinkie.
+(after getting Teddy)
+•Hi [SOMEONE], I'll
+ catch you later,
+•I'm a little busy
+ right now.
+
+
+Live House
+
+Black Dress Woman:
+•Tickets please,
+ you must have a
+ Ticket to get in.
+(using the Show Ticket on her)
+•Hope you enjoy
+ yourself here.
+(after being admitted)
+•What do you want?
+
+Red Dress Lady:
+(if she hasn't offered you a drink yet)
+•Wow, you're so
+ cute. Can I buy
+ you a drink?
+    Yes   No
+(No)
+•You afraid of the
+ cops?
+ Come on!
+(Yes)
+(...)
+•Hmmm.
+Policeman:
+•You're under age.
+ I have to take you
+ in to headquarters.
+(...)
+•Don't stop...
+ Keep on walking!
+(...)
+•You look like you've
+ been through a lot.
+•Take your time,
+ think about
+ what you've done.
+(sleep)
+•Now you know you
+ did a bad thing?
+    Yes   No
+(No)
+•Sorry, you must
+ stay another night
+ and cool your jets.
+(jump back to sleep)
+(Yes)
+•If you promise you
+ won't do it again,
+ you can go home.
+•You leave that
+ dangerous weapon
+ here though.
+•([SOMEONE]'s weapon
+ was confiscated.)
+(if you've already been arrested, Red Dress Lady says this)
+•No more drinks on my
+ bill.
+
+Cool Dude:
+•[ANA] girl!!
+ Well, I saw your
+ name on your hat.
+
+Purple Dress Woman:
+(before you get Teddy)
+•[TEDDY]'s parents
+ were killed by
+ mountain creatures.
+•Before that, he
+ was a gentle kid.
+(after you get Teddy)
+•I wish [TEDDY]
+ would go back to
+ the way he was.
+
+Blond Black-Shirt Man:
+(if you didn't step on the land mine)
+•Don't peek in the
+ back room. You'll
+ catch it for sure.
+(if you did)
+•I heard you
+ stepped on the
+ landmine.
+•I stepped in dog
+ crap once myself.
+•Tell you some-
+ thing else kid...
+•I didn't like it
+ very much either!
+
+Blue Mustache Man:
+•You want to sing
+ too?
+    Yes   No
+(No)
+•You're shy!
+(Yes)
+(...)
+•Then go ahead
+ and jam, dudes!
+(...)
+(if less than 3 people in party)
+•(A dull roar begins
+ to rise from the
+ crowd)
+•We paid to see a
+ trio!
+ There aren't three
+•performers here!
+ Grumble grumble...
+(if someone is petrified)
+•(The crowd becomes
+ restless and
+ upset.)
+•What in the world
+ is that stone with
+ a hat on!
+(else)
+(All That I Needed Was You)
+(...)
+Teddy:
+•Thank you for
+ your nice song.
+•By the way, you
+ guys beat up on my
+ friends.
+    Yes   No
+(No)
+•I know you did it!
+(Yes)
+•I'll smash you!
+(after one of the above)
+•Who's the boss?
+ I'll teach him
+ a lesson!
+(after fighting him)
+•Aha ha ha... 
+ You are quite a
+ guy.
+•Your name is
+ [NINTEN]?
+•Let's call it a
+ draw then...
+ Umm...
+•I seek vengeance
+ for my parents. To
+ the mountains!!
+    Yes   No
+(No)
+•Don't try to make
+ me mad.
+    Yes   No
+(No)
+•[NINTEN], please
+ accept my help.
+    Yes   No
+(No)
+Dad:
+•Hello...
+ It's Dad.
+•I really don't
+ want to butt in
+ now, but...
+•What are you
+ waiting for!??
+•Push the 'A'
+ button at once!
+    Yes   No
+(No)
+(sends you back to your house!!)
+(Yes to any of the above)
+•I'm sure we'll
+ make a good team.
+ Let's get going!
+(...)
+•You there,
+ the one with the
+ glasses...
+•You're not so good
+ at fighting, are
+ you?
+•Rest here while I
+ borrow your Goods.
+ OK?
+
+Dressing Room
+
+Fat Lady:
+(if you didn't step on the land mine)
+•This is my dressing
+ room, please get
+ out!!
+(if you did)
+•I heard that you
+ stepped in dog
+ crap in Yucca?
+•That wasn't very
+ cool buddy.
+
+
+Police Station
+
+Cool Dude:
+(if you haven't been arrested, or already bought back your weapon)
+•I have a fantastic
+ source for weapons.
+•Check back again
+ with me later...
+•I just may get a
+ really awesome
+ weapon or two.
+(if you have been arrested)
+•Hee hee hee...
+ I finally got a
+ [ITEM]!
+•Wanna buy it for
+ only $[PRICE]?
+    Yes   No
+(No)
+•Stingy kids...
+(Yes)
+•Here it is! No,
+ don't go to the
+ Store now.
+(if not enough money)
+•Not enough money.
+(if too many things)
+•Wait a minute...
+ You can't carry it,
+ so you can't have it.
+
+Policeman:
+(if you were arrested)
+•Time has passed,
+ you are more
+ experienced and
+•hopefully a little
+ wiser, but you are
+ still just a kid.
+
+
+Hotel
+
+Floor 2
+
+Red Dress Lady:
+•He may not come
+ again...
+
+Room 201
+
+Fat Lady:
+•This game I heard of
+•was titled
+  "EARTH
+   BOUND"...
+•don't know exactly
+ why...
+•because it really
+ doesn't matter.
+•So if you shouldn't
+ judge a book by its
+ cover...
+•Don't judge a game
+ by its title.
+
+
+Look-Out Tower
+
+Young Blond Man:
+•I once saw smoke
+ rising from one of
+ the islands.
+•I wondered if
+ anybody lived
+ there.
+•I should have
+ looked through
+ that telescope.
+
+Purple Hat Girl:
+•The telescopes?
+•Take this elevator
+ to the top of Look-
+ Out Tower.
+
+
+Science Island
+
+Scientist:
+•Have you ever
+ tasted Strawberry
+ Tofu?
+    Yes   No
+(No)
+•No way to buy
+ things like that
+ in this place.
+(Yes)
+•If you find some,
+ buy some for me,
+ please.
+•I'll trade
+ something nice
+ in return.
+(using Berry Tofu on him)
+•Oh!  This is
+ Strawberry Tofu!
+ Thank you!
+•Here's something
+ nice for you in
+ return.
+
+Able:
+•I am Able, the 
+ Doctor's assistant.
+•I too would like
+ to taste
+ Strawberry Tofu.
+(using Berry Tofu on him)
+•Thank you, It
+ looks so good!
+•I'll share some
+ important
+ information.
+•Near the summit of
+ Mount Itoi...
+•Deep in the lake,
+ there lies a
+ fantastic robot.
+•I think it still
+ works.
+
+Baker:
+•I look just like
+ Able, but I am
+ Baker.
+•I also want to try
+ Strawberry Tofu.
+(using Berry Tofu on him)
+•Oh! I'm so happy.
+ Take these Swear
+ Words with you.
+
+
+ENEMY DESCRIPTIONS
+------------------
+
+B.B. Gang:
+He's a real bad apple; stay out of his way.
+
+Buffalo:
+Its father won't even look at his face.
+
+Atomic Robot:
+It's a walking fuel supply.
+
+Mook:
+It uses various PSI attacks.
+
+Red Snake:
+It gives good experience if it doesn't run.
+
+Nancy:
+Do not be tricked by her smile.
+
+B.B. Boss (you can't actually Check him, but he has a description nonetheless):
+Maybe he's not really rotten to the core....
+
+Spider:
+You'll want to try Insecticide.
+
+Starman:
+A man from the stars.
+
+Ultra Barbot:
+It's the latest in the product line.
+
+
+CHECK DESCRIPTIONS & MISC. TEXT
+-------------------------------
+
+Police Station Sign:
+•Police Station
+ City of Ellay
+
+Sign northwest of town:
+•  Look-Out Tower
+        WEST
+   Harbor   NORTH
+
+Sign east of town:
+•      Ellay
+        WEST
+•    Mount Itoi
+        EAST
+
+Look-Out Tower sign:
+•    Ocean View
+  Tourists Welcome
+
+Right observatory telescope:
+•[SOMEONE] looked
+ into the telescope.
+•The shimmering blue
+ sea stretched
+ toward the horizon.
+
+Left observatory telescope:
+•[SOMEONE] looked
+ into the telescope.
+(if the rocket hasn't come yet)
+•In the distance,
+ on the island,
+ something sparkled!
+(if it has)
+•The shimmering blue
+ sea stretched
+ toward the horizon.
+
+Rocket:
+•They climbed
+ into the rocket.
+
+
+MT. ITOI
+========
+
+DIALOGUE
+--------
+
+Doctor's House
+
+Doctor:
+(first time you talk to him)
+•You ever get hurt,
+ come to my place.
+•I have food,
+ medicine, and a
+ bed you can use.
+(afterwards)
+•Come on, children,
+ what do you need?
+    Medicine  Sleep
+(Medicine)
+(says this no matter what)
+•Here is your
+ medicine.
+(if you can't carry anything else)
+•If you can't carry
+ it, come back some
+ other time.
+(Sleep)
+•Hope you sleep
+ well.
+(sleep)
+•Do your best.
+(if pressing B at Medicine/Sleep)
+•Do your best.
+
+After R-7038
+
+Doctor:
+(before talking to Teddy)
+•......
+
+Lloyd:
+(before talking to Teddy)
+•......
+
+Teddy:
+•Brute strength is
+ not enough to beat
+ them.
+•I know now that
+ peace can be
+ brought back to us.
+•I believe.
+(...)
+Doctor:
+•Hey! [LLOYD]!...
+•Now is the time
+ you must fight
+ for yourself.
+(...)
+Lloyd:
+•([LLOYD]) Now it is
+ the weakling's turn.
+•You stay here and
+ wait!
+(after you've already talked to him)
+•......
+
+
+Healer's House
+
+Healer:
+(if you talk to him normally)
+•How happy I am
+ that you came to
+ see me.
+•I know what you
+ would like me to
+ do. Here!
+(heal)
+(if you move toward the door without healing up first)
+•You tried to
+ ignore me, didn't
+ you?
+•I'm so lonesome
+ out here, all by
+ myself.
+•I will do
+ anything I can.
+ Here!
+(heal)
+
+Teddy:
+(approaching the door)
+•([TEDDY]) I'm
+ sure you two would
+ like to be alone.
+•I'll make a few
+ phone calls and
+ wait out here.
+(...)
+
+Ana:
+•[NINTEN]....
+ Please stay with
+ me.
+    Yes       No
+(No)
+•No!!
+ Stay with me,
+ Please!...
+(Yes, or after the above)
+•Silence falls...
+ Would you like to
+ dance?
+(Fallin' Love)
+•[NINTEN]?...
+ Do you love me?
+    Yes       No
+(No)
+•You're right.
+ Now isn't the time.
+ I wasn't thinking.
+(Yes)
+•Oh [NINTEN], I've
+ loved you for such
+ a long time.
+•I've loved you
+ since I saw you
+ in my dream.
+(...)
+•([TEDDY])
+ Why are you two
+ blushing?
+•Let's hurry up
+ and get out of
+ here!
+(...)
+•([TEDDY])
+ Sorry to bother
+ you two...
+•but did you hear
+ those loud noises?
+(...)
+•([TEDDY])
+ Those noises
+ coming from outside,
+•not in here silly.
+(R-7038 battle)
+(...)
+Lloyd:
+•Oh shoot!
+ I missed!
+(...)
+(sleep)
+(goes back to doctor's house)
+
+
+Underground Lab
+
+EVE:
+•MY NAME IS EVE.
+ I HAVE BEEN
+ WAITING FOR YOU.
+•MY CREATOR WAS
+ GEORGE...
+•HE WAS TAKEN TO
+ THE END OF THE
+ UNIVERSE...
+•THEN BROUGHT BACK
+ LATER.
+•I AM HERE TO
+ PROTECT YOU.
+•THAT IS MY PURPOSE.
+
+
+Mysterious Cave
+
+Trapped Person:
+•Oh, the darkness
+ is so thick...
+•Can't see you very
+ well.. 
+•But could it
+ be?...
+•Is it the little
+ girl from Snowman?
+•[ANA], I believe
+ it was...
+•Brace yourself,
+ your mom is locked
+ in a room in back.
+•Do not try to
+ rescue us now.
+•First, the
+ Mother Ship must
+ be destroyed.
+
+Trapped Person:
+•I was kidnapped by
+ the Mother Ship.
+ Please help me!
+
+Trapped Person:
+•Not that I have
+ claustrophobia...
+•but I can't stand
+ small, close
+ spaces!
+
+
+Final Battle
+
+Giygas:
+(battle dialogue)
+(first)
+ Ninten!
+ I am grateful to
+ your family.
+(second)
+ Your Great-
+ Grandparents,
+ George and Maria
+ raised me.
+(third)
+ But, George stole
+ vital information
+ from our planet
+ that can be used
+ to betray my
+ people...
+(fourth)
+ And now, one of his
+ descendants
+ is obstructing
+ our plans,
+ and must be
+ stopped!!
+ [NINTEN]!
+ I am talking about
+ you!
+(fifth)
+ Go home now!
+ Perish with the
+ rest of the ugly
+ Earth People.
+(sixth)
+ Foolish one, you
+ cannot do a thing
+ with your meager
+ powers...
+ Powers worthy of
+ a lowly insect.
+(seventh)
+ [NINTEN]!
+ You alone,
+ I may save you.
+ Just you alone.
+ Board our
+ Mother Ship with me.
+(eighth)
+ ...then, fall into
+ long sleep
+ with your friends
+ and the other ugly
+ Earth People.
+(first time you sing)
+ Stop singing.
+(second time you sing)
+ STOP singing!
+(third time you sing)
+ STOP!
+ Stop the song!
+(fourth time you sing)
+ STOP IT!!
+ STOP THAT SONG!
+(fifth time you sing)
+ You puny little
+ Earth bugs!
+ Shut up, and
+ STOP singing!!
+(sixth time you sing)
+ The SONG...
+(seventh time you sing)
+ STOP IT!!!
+(eighth time you sing)
+ !!!!!
+(ninth time you sing)
+ Stop...
+ Pleeease, stop!
+(tenth time you sing)
+ !!!!!!!
+(eleventh time you sing)
+ ........
+(...)
+ How could I be
+ defeated
+ by a song
+ like that?
+ I will...
+ sometime...
+ Ninten!
+ We SHALL meet again!
+(heal)
+(mothership blasts off)
+
+
+ENEMY DESCRIPTIONS
+------------------
+
+Caves
+
+Blue Starman:
+His sole purpose is to keep passengers from passing through the cave.
+
+Cerebrum:
+What evil lab has manufactured this mobile brain?
+
+Plateau
+
+Cerebrum:
+What evil lab has manufactured this mobile brain?
+
+Titanian:
+If you can beat it, that is great.
+
+Rockoyle:
+It likes to use PK Freeze.
+
+Mega Borg:
+Special armor protects it from PSI attacks.
+
+Gargoyle:
+It has the awful Stone of Origin.
+
+Grizzly Bear:
+It you must sleep, don't borrow his bed!
+
+Super Energy:
+There is plenty of fuel inside of it.
+
+R7038:
+Is there any way to defeat him?
+(interestingly, Check doesn't even bother showing stats for him)
+ZAP!!!
+(R7038's text after he defeats you)
+
+Lake
+
+Oh-Mook:
+Not only will it attack using PSI, it is a thief!
+
+Peak
+
+Last Starman:
+It's the strongest of the Starmen.
+
+Energy Robot:
+It's a walking fuel supply.
+
+Juana:
+She is good at, and not afraid to use, strong PSI attacks.
+
+Star Miner:
+It carries, and likes to use, Bombs.
+
+Giga Borg:
+He only has PK Beam.
+
+Omega Borg:
+He's as strong as an ox.
+
+R7038XX:
+New and, unfortunately, improved.
+
+Final Battle
+
+Giegue:
+([SOMEONE] hears the
+voice of Queen Mary)
+Giegue cannot be
+defeated with
+force...
+You cannot defeat
+Giegue with a
+weapon of any kind.
+You must SING my
+lullaby, with all
+your feelings...
+SING my lullaby
+with all your
+heart.
+(special attack)
+The form of
+[ENEMY]'s attack
+was inexplicable!
+
+
+CHECK DESCRIPTIONS & MISC. TEXT
+-------------------------------
+
+Boat:
+•The boat motor
+ appears to be
+ broken.
+(if you don't have Lloyd)
+•[SOMEONE] just does
+ not seem to be
+ able to fix it.
+(if you do)
+•But [LLOYD] fired
+ it right up.
+
+EVE:
+•Feeling [NINTEN]'s
+ presence, the robot
+ came back to life.
+(EVE dialogue)
+
+Destroyed EVE:
+•Robot Eve was
+ demolished and
+ moved no more.
+•Examining the
+ wreckage caused
+ music to start...
+•[SOMEONE] remembered
+ the tune.
+
+XX Stone:
+(...)
+•[SOMEONE],
+ Welcome...
+•I always believed
+ that you would
+ find your way here.
+•Your Great-Grand
+ Mother Maria's love
+ was scattered,
+•scattered in the
+ form of melodies.
+•I have a melody
+ for you. Listen
+ and remember...
+(8th melody)
+(...)
+•[SOMEONE] remembered
+ the tune.
+•The crystal
+ fragments that had
+ broken off
+•stopped glowing and
+ disappeared..
+
+
+THE END
+=======
+
+At the summit of Mt. Itoi,
+Ana is reunited with her
+mom as the rest of the freed
+Earth people exit the cave.
+
+Teddy, his health fully
+recovered, now sings daily
+at The Live Show.
+
+The kidnapped grown-ups
+return to their lonely
+children in Youngtown.
+
+(Ana)
+I promise I won't forget you
+so I will not say Good-Bye,
+just - 'til we meet again!
+
+Loid returns to a hero's
+welcome at Twinkle
+Elementary School.
+
+Son, your sisters and I are
+so happy to see you back in
+one piece. How unbelievable
+that you are not hungry.
+
+A letter from Ninten,
+I miss him so much. I hope
+we can get together again
+soon.
+
+Well, now that the Earth's
+crisis is finally over, I
+think I'll just lay down
+for a moment and Zzzzzzzzz
+
+CAST
+
+Pippi
+Pippi's Mom
+Old Man & Canaries
+Janitor
+Red Pigtail Girl, Blonde Ponytail Girl, Blue Hat Kid, Red Hat Kid
+Mayor & Receptionist
+Policeman
+Blond Blue-Shirt Man, Purple Woman, Blue Mustache Man
+Cool Dude, Old Lady, Scuzzy Kid
+Drugstore Guy
+Nurse, Doctor
+Burger Cashier
+Pilot
+Monkeys & Confused Penguin
+Blue Wizard Man, Red Witch Girl
+Palace Guard, Blue Clown
+Guitar Player
+Flying Men
+Queen Mary
+Lloyd, Ninten, Ana, and Teddy
+
+CREDITS
+
+DIRECTOR
+SHIGESATO ITOI
+
+GAME DESIGNERS
+SHIGESATO ITOI
+MIYUKI KURE
+
+MUSIC PRODUCERS
+AKIO OHMORI
+RITSUO KAMIMURA
+
+MUSICAL EFFECTS
+KEIICHI SUZUKI
+HIROKAZU TANAKA
+
+CHARACTER DESIGNERS
+SHINBO MINAMI
+TATSUYA ISHII
+
+FIGURE MODELING
+TOTTORI
+
+PROGRAMMERS
+KAZUYA NAKATANI
+TAKAYUKI ONODERA
+MOTOO YASUMA
+
+SCENARIO ASSISTANTS
+MASAYUKI KAMEYAMA
+HIDEO KON
+KATSUTOMO MAEIWA
+KUNIKO SAKURAI
+
+COORDINATORS
+MASAHIRO TATEMOTO
+TAKASHI KAWAGUCHI
+KEIZOH KATOH
+MOTOHIRO ISHII
+AKIHITO TODA
+YUKARI SAITOH
+
+ENGLISH SCRIPT WRITER
+PHIL SANDHOP
+
+TRANSLATORS
+TOSHIKO WATSON
+YUKA NAKATA
+HIROKO FAULKNER
+
+SPECIAL THANKS TO
+TONY HARMAN
+DAYV BROOKS
+NORIYUKI MINAMI
+BIN OHGAWARA
+YOSHIHISA WADA
+HIKONORI SUZUKI
+TAKAO SHIMIZU
+
+PRODUCER
+SHIGERU MIYAMOTO
+
+EXECUTIVE PRODUCER
+HIROSHI YAMAUCHI
+
+"PLAYER"
+[PLAYER]
+
+Nintendo®
+Tokyo Research & Development Products
+
+APE inc.
+
+I know that boy is home.
+Come on son and answer the
+phone. Something new has
+come up and...
+
+
+GENERAL TEXT
+============
+
+Dad (phone):
+•[SOMEONE] grabbed the
+ telephone.
+•This is your Dad.
+(if deposited money)
+•I've transferred
+ $[BALANCE]
+ into your account.
+•After the amount
+ you've spent,
+•the balance is
+ $[BALANCE].
+•Spend your money
+ wisely.
+(regardless)
+•Well, the next
+ level
+ requires...
+•[EXP] for
+ [SOMEONE].
+(above line repeated as necessary)
+•By the way, do
+ you want to SAVE?
+    Yes    No
+(No)
+•Good luck.
+•Slam.
+(Yes)
+•OK...But, I was
+ thinking of going
+ to sleep now.
+•I've SAVEd your
+ progress, so far.
+•Good night.
+  Continue Rest
+(Continue)
+•Just like your
+ Mom, you never
+ want to stop.
+•Please don't push
+ yourself so hard.
+•Slam.
+(Rest)
+•See you later!
+•Remember, push in
+ and hold RESET,
+•while turning the
+ POWER off. OK?
+•Slam.
+
+ATM:
+•Please insert your
+ Cash Card.
+(upon inserting atm card)
+•Can I help you?
+  Withdraw Deposit
+•Your account shows
+ a balance of
+ $[BALANCE].
+(Withdraw)
+•How much would you
+ like to withdraw?
+  $ 0000
+(Deposit)
+•How much would you
+ like to deposit?
+  $ 0000
+(after one of the above)
+•Thank you very
+ much.
+(if trying to withdraw too much money)
+•Your balance is
+ insufficient.
+(if trying to deposit too much money)
+•There isn't
+ enough money.
+
+
+Department Store Generic Shopkeeper People
+
+Service Counter Lady:
+•How may I help?
+ Do you have some-
+ thing to return?
+    Yes       No
+(Yes)
+•Which one?
+(after selecting an item)
+•I'll give you
+ $[PRICE] for
+ [ITEM].
+•Is that alright?
+    Yes       No
+(Yes)
+•Thank you for
+ shopping with us
+ today.
+(No to either)
+•Good.
+•Thank you for
+ shopping with us
+ today.
+(if can't sell the item)
+•Sorry, but I can't
+ buy [ITEM] from
+ you.
+
+Drugstore Man:
+•Welcome!
+ What can I sell
+ you?
+(after selecting an item)
+•You mean
+ [ITEM]?
+    Yes       No
+(Yes)
+•Thank you very
+ much. Please
+ visit us again.
+•Do you want
+ anything else?
+    Yes       No
+(No)
+•Thank you very
+ much. Please
+ visit us again.
+(if not buying anything, or saying No to buying something)
+•Are you sure you
+ don't need that?
+ Well, come again.
+(if not enough money)
+•I'm sorry, but you
+ just don't have
+ enough money.
+(if not enough space)
+•I am afraid you
+ can't carry
+ anything more.
+
+Cashier Lady:
+•Welcome!
+ What can I sell
+ you?
+(after selecting an item)
+•You mean
+ [ITEM]?
+    Yes       No
+(Yes)
+•Thank you very
+ much. Please
+ visit us again.
+•Do you want
+ anything else?
+    Yes       No
+(No)
+•Thank you very
+ much. Please
+ visit us again.
+(if not buying anything, or saying No to buying something)
+•Don't need that,
+ do you? Come see
+ us when you do.
+(if not enough money)
+•Oh no sir, you
+ do not have that
+ much money.
+(if not enough space)
+•Sir, you can't
+ carry more than
+ what you now have.
+•At least, I don't
+ think you should.
+
+Cashier Man:
+•Welcome!
+ What can I sell
+ you?
+(after selecting an item)
+• The [ITEM], yes? 
+    Yes       No
+(Yes)
+•Thank you very
+ much. Please
+ visit us again.
+•Do you want
+ anything else?
+    Yes       No
+(No)
+•Thank you very
+ much. Please
+ visit us again.
+(if not buying anything, or saying No to buying something)
+•Are you sure you
+ don't need that?
+ Well, come again.
+(if not enough money)
+•I'm sorry, but you
+ just don't have
+ enough money.
+(if not enough space)
+•I am afraid you
+ can't carry
+ anything more.
+
+
+Hotel Generic Receptionist:
+•Welcome!
+ $[PRICE]
+ for a night.
+ Care to stay?
+    Yes   No
+(No)
+•Sorry to hear that.
+ Please visit us
+ again.
+(Yes)
+•Sleep tight...
+ and don't let the
+ bed bugs bite.
+(sleep)
+•Good morning!
+ Please come back
+ and see us again.
+(if not enough money)
+•I'm sorry, but you
+ just don't have
+ enough money.
+
+
+Burger Shop Cashier:
+•Can I help you?
+ Please use this
+ menu.
+(after selecting an item)
+•You mean
+ [ITEM]?
+    Yes   No
+(Yes)
+•Thank you very much.
+ One [ITEM]
+ to go, please!
+•Do you want
+ anything else?
+    Yes   No
+(No)
+•Thank you very
+ much. Please
+ visit us again.
+(if you don't have enough money)
+•Oh no sir, you
+ do not have that
+ much money.
+(if not buying anything, or saying No to buying something)
+•Don't need that,
+ do you? Come see
+ us when you do.
+(if not enough room)
+•Sir, you can't
+ carry more than
+ what you now have.
+•At least, I don't
+ think you should.
+
+
+
+Hospital Text
+
+Nurse:
+•Who are you here
+ to visit?
+(if not selecting a character)
+•Oh! not visiting a
+ patient?
+•If you are the
+ patient, please go
+ to the back room.
+(after selecting a character)
+(if the character is still alive)
+•Sorry, no patient
+ here by that name.
+(if the character is not still alive)
+•They just brought
+ [SOMEONE] here,
+ still unconscious.
+•Medical treatment
+ for those injuries
+ totals $[PRICE].
+    Yes       No
+(No)
+•You would leave
+ your best friend
+ on their deathbed?
+(Yes)
+(heal)
+•[SOMEONE], glad to
+ see you are fine
+ now. See us again!
+(if not enough money)
+•I'm sorry, but you
+ just don't have
+ enough money.
+
+Old Sawbones Benny:
+•First show
+ me your money. Then
+ I'll treat you.
+•Well... 
+ In your case,
+ I'll have to bill
+•$[PRICE] for
+ your treatment.
+•This special price
+ was set just for you.
+    Yes       No
+(No)
+•Fine, die all on
+ your own. I'll
+ phone a mortician.
+(Yes)
+•Thanks for the
+ $[PRICE].
+•You'are now cured.
+•Go get hurt again
+ and come back
+ soon.  He-he-hee!
+
+Other Doctors:
+•Well well, I'll
+ treat each of you
+ for [PRICE]
+ each.
+    Yes   No
+(No)
+•You really don't
+ need treatment?
+ Oh, well...
+(Yes)
+(after selecting a character)
+(if they have nothing wrong with them)
+•I see everything
+ with you is fine.
+(else)
+•Well,
+ you are fine
+ once again.
+
+
+Train Station Ticket Guy:
+•Well, I don't know
+ how far the train
+ goes through,
+•but, you need
+ a ticket to ride.
+ Care to buy one?
+(after selecting a destination)
+•Then, it's
+ [PRICE]
+ dollars.
+    Yes       No
+(if No, or if canceling destination selection)
+•Is that right?
+ That's too bad.
+
+
+Death Text:
+•[NINTEN]! [NINTEN]!..
+•You seem to be worn
+ out from fighting.
+ One more time?
+    Yes   No
+(No)
+•Is it all right to
+ go back to the
+ data SAVEd earlier?
+    Yes       No
+(Yes)
+•[NINTEN] realized
+ that it had only
+ been a bad dream.
+•Do your best,
+ [NINTEN]!
+(Yes to the first, or No to the second)
+•With his strength
+ regained...
+•[NINTEN] returned
+ once more to the
+ fighting scene.
+•Do your best,
+ [NINTEN]!
+
+
+ITEMS
+=====
+
+"Big Bag"
+•A bag filled with
+ Magic Herb.
+
+"Telephone Card"
+•USE this handy card
+ to charge your phone
+ calls.
+
+"Bread Crumbs"
+•If you follow them,
+•you will return to
+ the place that you
+ started.
+
+"Repel Ring"
+•One look at this
+ strange ring
+•will drive away
+ weak enemies.
+
+"Butter Knife"
+•Teddy can master
+ it.
+
+"Survival Knife"
+•Hey Teddy, this is
+ stronger than an
+ ordinary Knife.
+
+"Sword"
+•Few people can
+ master it.
+
+"Katana"
+•This Japanese sword
+ is the best Teddy
+ has seen yet.
+
+"Stun Gun"
+•Loid
+ seems to be able to
+ USE it.
+
+"Air Gun"
+•A strong weapon,
+•but only Loid
+ seems to be able to
+ USE it.
+
+"Plastic Bat"
+•This weapon is OK
+ for Ninten. USE it!
+
+"Wooden Bat"
+•Ninten, USE this
+ weapon to fight
+ with weak enemies.
+
+"Aluminum Bat"
+•With this weapon
+•Ninten can easily
+ fight tougher
+ enemies.
+
+"Hank's Bat"
+•This awesome bat
+ was personally
+ autographed.
+
+"Frying Pan"
+•Ana can USE
+ this weapon best.
+
+"Non-stick Pan"
+•A good weapon for
+ Ana, with no
+ messy clean up.
+
+"Iron Skillet"
+•Ana can USE this
+ heavy metal pan to
+ rock strong enemies.
+
+"Slingshot"
+•A handy weapon,
+ that anyone can USE.
+
+"Boomerang"
+•Be careful,
+ this isn't a toy.
+•Anyone can USE it
+ as a weapon.
+
+"Insecticide"
+•It has an irritating
+ effect on bugs.
+
+"Super Spray"
+•Industrial strength
+ Insecticide.
+
+"Flea Bag"
+•A bag of fleas and
+ other nasty
+ critters.
+•Throw at an enemy
+ and watch the
+ effect!
+
+"Words of Love"
+•???
+
+"Swear Words"
+•???
+
+"Sticky Machine"
+•It seems to be used
+ for fighting, but...
+
+"Flashdark"
+•The opposite of a
+ flashlight.
+
+"Flame Thrower"
+•Toasts the enemy,
+ but only Loid
+ can use it.
+
+"Bomb"
+•Maybe only Loid
+ can detonate it.
+
+"Super Bomb"
+•Written on the side
+ "Beware of blast",
+•only Loid can
+ use it.
+
+"Laser Beam"
+•It helps that sissy
+ Loid.
+
+"Plasma Beam"
+•It helps that weenie
+ Loid quite a lot.
+
+"Rope"
+•Use it to tie the
+ enemy up.
+
+"Peace Coin"
+•When you USE it,
+ DEFENSE goes up a
+ little bit.
+
+"Protection Coin"
+•When you USE it,
+ DEFENSE goes up.
+
+"Magic Coin"
+•When you USE it,
+ DEFENSE really goes
+ up.
+
+"Brass Ring"
+•When you USE it,
+ DEFENSE goes up a
+ bit.
+
+"Silver Ring"
+•When you USE it,
+ DEFENSE goes up.
+
+"Gold Ring"
+•When you USE it,
+ DEFENSE really goes
+ up.
+
+"H2o Pendant"
+•When you USE it,
+ it will defend
+ against PK Fire.
+
+"Fire Pendant"
+•When you USE it,
+ it will defend
+ against PK Freeze.
+
+"Earth Pendant"
+•When you USE it,
+ it will defend
+ against PK Thunder.
+
+"Sea Pendant"
+•When you USE it,
+•it will defend
+ against
+ all PSI attack.
+
+"Orange Juice"
+•Vitamin C is always
+ good for a few HP.
+
+"French Fries"
+•EATen with or
+ without catsup,
+ your HP will rise.
+
+"Magic Herb"
+•When you are tired
+ or injured, USE it.
+
+"Hamburger"
+•Fast food for some
+ fast HP.
+
+"Sports Drink"
+•No matter how tired
+ you are, one bottle
+ will strengthen you.
+
+"Life Up Cream"
+•USEd to heal wounds.
+
+"Asthma Spray"
+•When Ninten's
+ asthma attacks,
+ spray this.
+
+"Antidote"
+•It neutralizes
+ poison quickly.
+
+"Mouthwash"
+•If you gargle with
+ it, you will lose
+ your cold.
+
+"Strawberry Tofu"
+•If you really want
+ to eat it OK, but...
+
+"Bread"
+•OK to eat it,
+ but its CRUMBS can
+ be used
+•to mark your trail.
+
+"Noble Seed"
+•USE this to cancel
+ the Wicked Seed.
+
+"PSI Stone"
+•PSI Power in solid
+ form.
+
+"Magic Ribbon"
+•With this FORCE
+ will rise a bit.
+•This is for a girl
+ to tie in her hair.
+
+"Magic Candy"
+•If the sissy boy
+ EATs this his
+ FIGHT rise some.
+
+"Quick Capsule"
+•Take this capsule to
+ raise your SPEED.
+
+"Wisdom Capsule"
+•Take this capsule to
+ raise your WISDOM.
+
+"Physical Capsule"
+•Take this capsule to
+ raise your STRENGTH.
+
+"Force Capsule"
+•Take this capsule to
+ raise your FORCE.
+
+"Fight Capsule"
+•Take this capsule to
+ raise your FIGHT.
+
+"Basement Key"
+•USE this Key to
+ unlock the basement
+ door.
+
+"Zoo Key"
+•This Key will unlock
+ the main gate at
+ the City Zoo.
+
+"Ghost House Key"
+•This is the Key to
+ the Rosemary's house.
+
+"Great-Grand Father's
+ Diary"
+•It is old,
+ ragged, and filled
+ with entries.
+
+"Pass"
+•Printed on it,
+ "Duncan Factory
+ Employee".
+
+"Ticket"
+•Printed on it,
+•"Rock'n Roll all
+ night and every day
+ at The Live Show".
+
+"Canary Chick"
+•Its eyes show
+ sadness.
+
+"Bottle Rocket"
+•Loid seems to
+ know how to use it.
+
+"Hat"
+•A pretty hat
+ embroidered with
+ the name Ana.
+
+"Dentures"
+•Brush, floss and see
+ your dentist and
+•you won't have to
+ own a pair.
+
+"Ticket Stub"
+•Printed on it,
+•"Save ten of these
+ for a complimentary
+ tank ride".
+
+"Ocarina"
+•It can play a catchy
+ tune.
+
+"Franklin Badge"
+•Legend says that
+ Ben Franklin wore
+•this reflective
+ badge during his
+•experiments with
+ lightning.
+
+"Onyx Hook"
+•As long as you have
+ it, you can warp
+ back to Magicant.
+
+"Last Weapon"
+•???
+
+"Ruler"
+•It is 12 inches long.
+
+"Ninten's Cash Card"
+•Use it for all your
+ banking needs.
+
+"Red Weed"
+•It looks like just
+ grass, but...
+
+"Bullhorn"
+•Your amplified
+ voice may intimidate
+ an enemy.
+
+"Debug"
+•.......
+
+
+BATTLE
+======
+
+BASICS
+------
+
+[SOMEONE]
+draws near!
+[SOMEONE]'s attack!
+[SOMEONE] dodged
+swiftly.
+Continuous attack!
+SMAAAASH.
+[SOMEONE] suffered
+damage of [AMOUNT].
+There was no effect
+on [SOMEONE].
+[SOMEONE]
+was already gone.
+[SOMEONE] ran away!
+...But it didn't work
+out.
+You lost the battle.
+
+    YOU WIN!
+
+
+BATTLE ACTIONS
+--------------
+
+[SOMEONE] fired the
+tank gun!
+[SOMEONE] bit
+[SOMEONE]!
+[SOMEONE] scratched
+[SOMEONE]!
+[SOMEONE] charged
+at [SOMEONE]!
+[SOMEONE] ran out
+of control!
+[SOMEONE]'s
+last blow!!!
+The form of
+[SOMEONE]'s attack
+was inexplicable!
+[SOMEONE] spit a
+sticky substance!
+[SOMEONE] let out
+a strange cry!
+[SOMEONE] smiled
+a darling smile.
+[SOMEONE] flew into
+a rage!
+[SOMEONE] made
+[SOMEONE] confused!
+[SOMEONE] cried out
+for help!
+[SOMEONE] sowed
+its seed!
+[SOMEONE] started
+laughing!
+[SOMEONE] uttered
+threatening words!
+[SOMEONE] uttered
+dirty words!
+[SOMEONE] just
+grins, and bears it.
+[SOMEONE]'s energy
+has flowed into
+[SOMEONE]!
+[SOMEONE] was
+surrounded by a
+barrier.
+[SOMEONE]
+tripped and fell.
+[SOMEONE] puffed a
+cloud of exhaust gas!
+[SOMEONE] is
+meditating.
+[SOMEONE] is ready
+for an attack.
+[SOMEONE] sang the
+song!
+[SOMEONE] is
+guarding.
+[SOMEONE]
+approached slowly!
+[SOMEONE] USEd
+[SOMETHING]!
+[SOMEONE] tried
+[SOMETHING]!
+[SOMEONE] is
+thinking about the
+circumstances.
+[SOMEONE] did
+something strange.
+[SOMEONE] used
+the Wicked Seed!
+[SOMEONE] used a
+paralizing gas!
+[SOMEONE] took away
+[SOMEONE]'s
+[SOMETHING]!
+
+
+CHECK
+-----
+
+[SOMEONE] CHECKed
+[SOMEONE].
+. Strong against
+  PK Fire.
+. Strong against
+  PK Freeze.
+. Strong against
+  PK Thunder.
+. Strong against
+  PK Beam.
+. Weak against
+  Sprays.
+. OFFENSE [AMOUNT]
+. DEFENSE [AMOUNT]
+
+
+DEFEAT
+------
+
+[SOMEONE] regained
+all senses!
+[SOMEONE] became
+quiet!
+[SOMEONE] was
+beaten!
+[SOMEONE] was
+destroyed!
+[SOMEONE] has
+returned to dust!
+[SOMEONE] doesn't
+move anymore!
+[SOMEONE] became
+a pile of junk!
+[SOMEONE]
+vanished!
+[SOMEONE]
+exploded!
+[SOMEONE] burst
+into flames!
+[SOMEONE] was
+hurt and beaten.
+The tank is broken.
+
+
+SHIELDS
+-------
+
+[SOMEONE] was
+shielded.
+Destroyed
+[SOMEONE]'s
+shield.
+
+STATUS EFFECTS
+--------------
+
+Acquiring
+
+[SOMEONE] was
+poisoned.
+[SOMEONE] was
+dehydrated.
+[SOMEONE]'s PSI
+was blocked.
+[SOMEONE] was
+bound with Rope.
+[SOMEONE] lost
+all senses.
+[SOMEONE] was
+put to sleep.
+[SOMEONE] turned
+into a stone.
+[SOMEONE] was
+blinded!
+[SOMEONE] had an
+asthma attack.
+[SOMEONE]
+became itchy
+all over.
+
+Continuing
+
+[SOMEONE] is bound
+tightly.
+[SOMEONE] is
+day-dreaming.
+[SOMEONE] is so
+confused.
+[SOMEONE] is
+asleep.
+[SOMEONE] can't
+move.
+[SOMEONE] can not
+move.
+[SOMEONE] turned
+into a stone.
+[SOMEONE] had an
+asthma attack.
+Wheeze...
+
+Recovery
+
+Poison has dissipated
+from [SOMEONE]'s
+body.
+[SOMEONE] senses
+were regained.
+[SOMEONE] can
+move now.
+[SOMEONE] woke up.
+[SOMEONE]'s asthma
+attack has passed.
+[SOMEONE]
+recovered from
+being a stone.
+[SOMEONE] escaped
+from the Rope.
+[SOMEONE] wasn't
+confused anymore!
+Brought [SOMEONE]
+back!!!
+
+
+STATS
+-----
+
+[SOMEONE]
+recovered 
+[AMOUNT] PP's!
+[SOMEONE]
+recovered 
+[AMOUNT] HP!
+[SOMEONE]'s
+situation became
+critical.
+[SOMEONE]'s
+OFFENSE increased
+by [AMOUNT].
+[SOMEONE]'s
+OFFENSE decreased
+by [AMOUNT].
+[SOMEONE]'s
+DEFENSE increased
+by [AMOUNT].
+[SOMEONE]'s SPEED
+increased by [AMOUNT].
+[SOMEONE]'s FIGHT
+decreased by [AMOUNT].
+[SOMEONE]'s
+DEFENSE decreased
+by [AMOUNT].
+[SOMEONE]'s FIGHT
+increased by [AMOUNT].
+[SOMEONE]'s SPEED
+decreased by [AMOUNT].
+
+
+LEVEL-UP
+--------
+
+[SOMEONE] advanced
+to the next Level!
+Maximum HP has
+increased by 
+[AMOUNT].
+Maximum PP has
+increased by 
+[AMOUNT].
+FIGHT has
+increased by
+[AMOUNT].
+SPEED has
+increased by
+[AMOUNT].
+WISDOM has
+increased by
+[AMOUNT].
+STRENGTH has
+increased by 
+[AMOUNT].
+FORCE has
+increased by 
+[AMOUNT].
+[SOMEONE] learned
+a new PSI-Power
+through battle!
+
+
+ITEM DISAPPEARANCE
+------------------
+
+[SOMETHING] was
+broken.
+[SOMETHING] turned
+into a stone.
+[SOMETHING]
+became empty.
+
+
+OTHER
+-----
+
+The battle lingers on.
+Picked up [ITEM]!
+"I love you."
+"I hate you."
+"Your mother is
+calling for you!"
+and [SOMEONE]
+believed it!
+but [SOMEONE]
+wasn't convinced
+at all.
+This made
+[SOMEONE] angry.
+[SOMEONE] can't USE
+[SOMETHING]!
+[SOMEONE] said
+"Hello", then just
+walked away.
+Miss!!
+But, the PSI was
+blocked.
+But, [SOMEONE]'s
+FranklinBadge bounced
+back the Beam!
+[SOMEONE] bounced
+back the attack!
+Not enough PP's.
+There was no effect
+on [SOMEONE].
+[AMOUNT] PP's were
+snatched from
+[SOMEONE].
+[SOMEONE] joined
+in the battle!
+However, no one came
+to assist.
+Silence...
+Don't know why, but
+[SOMEONE]'s EXP
+increased.
+But...
+it had no effect!
+Defeated
+[SOMEONE]!
+ZAP!!!
+[SOMEONE] was
+totally exhausted.
+
+
+MENUS & MISC. TEXT
+==================
+
+MAIN MENUS
+----------
+
+Talk
+Check
+Goods
+PSI
+State
+Setup
+
+(if not checking anything special)
+•No problem.
+
+(if not talking to anyone)
+•Who are you
+ talking to?
+
+Use
+Eat
+Give
+Drop
+Look
+
+(if trying to eat a non-edible item)
+•Don't be silly,
+ you can't do that.
+
+(equipping an item)
+•[SOMEONE] equipped
+ [ITEM].
+(if can't equip item)
+•[SOMEONE] can't
+ equip [ITEM].
+
+(dropping an item)
+•[SOMEONE] threw
+ away [ITEM].
+(if item is a key item)
+•Don't throw
+ away [ITEM].
+(if the character dropping an item is unconscious)
+•[SOMEONE] threw
+ [ITEM] out of
+ [SOMEONE]'s bag.
+
+(giving an item)
+(selecting an item?)
+•Which one?
+(selecting a character)
+•To whom?
+(if can give the item)
+•[SOMEONE] gave
+ [ITEM] to
+ [SOMEONE].
+(if can't give item?)
+•Can't hand over
+ [ITEM].
+(if trying to give an item, but other person's inventory is full)
+•[SOMEONE] can't
+ carry any more.
+(if giving an item to yourself)
+•[SOMEONE] didn't do
+ anything.
+(if the character giving an item is unconscious)
+•[SOMEONE] pulled
+ [ITEM] from
+ [SOMEONE]'s bag.
+(if the character being given an item is unconscious)
+•[SOMEONE] put
+ [ITEM] in
+ [SOMEONE]'s bag.
+(if both characters are unconscious)
+•[SOMEONE] took
+ [ITEM] from
+ [SOMEONE]'s bag 
+•and placed it in
+ [SOMEONE]'s bag.
+
+(using an item)
+(food)
+•[SOMEONE] ate
+ [ITEM].
+(drink/capsule)
+•[SOMEONE] drank
+ [ITEM].
+(other)
+•[SOMEONE] USEd
+ [ITEM].
+(if can't use the item)
+•[SOMEONE] can't
+ USE [ITEM].
+(if item has no effect)
+•Nothing happened.
+
+(presents)
+(if present isn't empty)
+•[SOMEONE] opened
+ the present.
+•There was
+ [ITEM].
+(if inventory full)
+•Can't carry
+ anything else.
+(else)
+•[SOMEONE] got
+ [ITEM].
+(if present already opened, or one present in the haunted house that's empty)
+•It was empty.
+
+(stat/recovery item use)
+(if recovers HP)
+•[SOMEONE]'s HP is
+(if recovers PP)
+•[SOMEONE]'s PP is
+(if increases Fight - this is a mistake)
+•[SOMEONE]'s ENERGY is
+(if increases Speed)
+•[SOMEONE]'s SPEED is
+(if increases Wisdom)
+•[SOMEONE]'s WISDOM is
+(if increases Strength)
+•[SOMEONE]'s STRENGTH is
+(if increases Force)
+•[SOMEONE]'s FORCE is
+(after one of the above)
+(if recovers HP/PP)
+•recovered by
+ [AMOUNT].
+(if increases a stat)
+•increased by
+ [AMOUNT].
+
+
+SPECIAL ITEM TEXT
+-----------------
+
+(Big Bag)
+•[SOMEONE] took out a
+ Magic Herb from the
+ Big Bag and USEd it.
+(if used the last Magic Herb)
+•When the Big Bag
+ was emptied,
+•it disappeared
+ into thin air.
+
+(PSI Stone)
+•[SOMEONE] squeezed
+ the PSI-Power
+ Stone.
+(when the PSI Stone breaks)
+•The PSI-Power
+ Stone became an
+ ordinary stone.
+
+(Bread)
+•[SOMEONE] started 
+ dropping the
+ Crumbs.
+(if using bread when you already have crumbs)
+•You can't USE
+ Bread until old
+ Crumbs are USEd up.
+
+(Phone Card runs out of calls)
+•The credit limit of
+ the Telephone Card
+ has been reached.
+
+(Crumbs)
+•[SOMEONE] returned
+ to the head of the
+ trail...
+•by following the
+ Crumbs that had
+ been dropped.
+
+(Last Weapon)
+•If that is true,
+ push the POWER off,
+•but remember to
+ hold in RESET!
+
+(Ruler)
+•[SOMEONE] measured the
+ lengths of many
+ things.
+
+(Magic Ribbon)
+•[SOMEONE] tied the
+ Ribbon into
+ her hair.
+
+(Repel Ring wears off)
+•The Repel Ring
+ has lost its
+ mysterious power.
+
+(Map?)
+•[SOMEONE] checked
+ the map.
+(if not on map)
+•This place is not
+ on the map.
+
+(Ocarina)
+•The Ocarina
+ played on and on...
+(♪♪♪♪♪♪♪♪)
+•Did you hear it?
+
+(a few places you can't enter for some reason)
+•Stopped by some
+ mysterious force.
+
+
+PSI
+---
+
+(using PSI)
+•[SOMEONE] tried
+ [PSI].
+(not enough PP)
+•There isn't enough
+ power left to try
+ that.
+
+Telepathy
+Teleport
+LifeUp α
+LifeUp β
+LifeUp γ
+LifeUp π
+LifeUp Ω
+Healing α
+Healing β
+Healing γ
+Healing π
+SuprHealing
+PSIShield α
+PSIShield β
+PowerShield
+BrainShock
+BrainCyclon
+Hypnosis
+Paralysis
+Darkness
+PSI-Magnet
+Shield-Off
+PSI-Block
+OffenseUp
+DefenseUp α
+DefenseUp β
+QuickUp
+Def.Down α
+Def.Down β
+4th-D Slip
+PK Freeze α
+PK Freeze β
+PK Freeze γ
+PK Freeze Ω
+PK Fire α
+PK Fire β
+PK Fire γ
+PK Fire Ω
+PK Beam α
+PK Beam β
+PK Beam γ
+PK Beam Ω
+PK Thunderα
+PK Thunderβ
+PK Thunderγ
+
+
+STATUS
+
+Faintd
+ Stone
+Parlzd
+Asleep
+Confsd
+Puzzld
+Poison
+  Cold
+
+
+VARIOUS OPTIONS
+---------------
+
+Desert Pilot:
+FlightplanA
+FlightplanB
+FlightplanC
+
+Hint Lady?:
+Hint 1
+Hint 2
+Hint 3
+
+Teleport/Train Tickets:
+MyHome
+Podunk
+Merrysville
+Reindeer
+Spookane
+Snowman
+Youngtown
+Ellay
+Union
