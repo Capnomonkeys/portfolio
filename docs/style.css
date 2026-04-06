@@ -28,6 +28,10 @@ figure.center-figure{
 figure.center-items{
     align-items: center;
 }
+figure.whitebg
+{
+    background-color: white;
+}
 
 
 div.side-by-side {
