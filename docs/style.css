@@ -71,6 +71,11 @@ img.scale200px{
     height:200px;
     width:auto;
 }
+img.scalefreq
+{
+    height: 50px;
+    width: auto;
+}
 
 nav{
     background:#abd3d7;
