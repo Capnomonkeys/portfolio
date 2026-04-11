@@ -8,6 +8,11 @@ body {
 body#resume{
     border: 15px purple;
 }
+body#corpora
+{
+    margin-left: 10em;
+    margin-right: 10em;
+}
 
 
 figure{
@@ -32,6 +37,14 @@ figure.whitebg
 {
     background-color: white;
 }
+.zoom
+{
+    transition: transform .2s;
+}
+.zoom:hover
+{
+    transform: scale(2);
+}
 
 
 div.side-by-side {
@@ -49,6 +62,17 @@ div.figpadding{
 img {
     width: 59%;
     max-width: 500px;
+}
+.zoom
+{
+    transition: transform .2s;
+    /*width: 90%;
+    height: auto;
+    max-width: 1500px;*/
+}
+.zoom:hover
+{
+    transform: scale(2);
 }
 
 ul.resume{
@@ -104,3 +128,4 @@ button.ui
     font-weight:bold;
     text-shadow: .5px .5px grey;
 }
+

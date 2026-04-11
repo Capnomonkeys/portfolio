@@ -7,7 +7,7 @@
         <link rel="stylesheet" type="text/css" href="style.css" />
 
     </head>
-    <body>
+    <body id="corpora">
         <h1>About</h1>
         <nav>
             <button onclick="window.location='index.html';" class="ui">Index</button>
@@ -19,34 +19,62 @@
         </nav>
         <p>Hello! This is my text corpora analysis, featuring the complete scripts of all the
             Earthbound/Mother games.</p>
-        <p>Before we get started, please keep in mind that this series has two different names
+        <p>I personally chose this series for two main reasons. First, it's one of my favorite video
+            game franchises of all time, and is very important to my own understanding and
+            interpretation of stories in video games. Second, and perhaps more pertinently, all
+            three entries have very different sensibilities about what type of story they want to
+            convey.</p>
+        <p>From the outset, I'd say the series gets more involved and serious about its story as the
+            games progress, so I hope to explore some of those concepts in this analysis.</p>
+        <p>Now, before we get started, please keep in mind that this series has two different names
             depending on the release region. In Japan, it's known as Mother, while outside of that,
             it's Earthbound, This mainly matters because Mother 3 never got an official english
             release. The analyzed text is from the fan translation, as that's the way I and many
             others experienced it.</p>
         <p>So, for clarity, Mother 1 is the same thing as Earthbound: Beginnings, and Mother 2 is
-            the same as Earthbound. For the purposes of this analysis, I will be using the english
-            names for all but Mother 3.</p>
+            the same as Earthbound. For the purposes of this analysis, I will be using the japanese
+            names of Mother 1, 2, and 3 for consistency's sake.</p>
+        <p>Finally, credit to <a
+                href="https://starmen.net/mother1/gameinfo/info/EBB-organized-dump.txt"
+                >broomweed</a>, <a
+                href="https://gamefaqs.gamespot.com/snes/588301-earthbound/faqs/34560">TIDQ</a>, and
+                <a href="https://gamefaqs.gamespot.com/gba/914622-mother-3/faqs/42740"
+                >spookychee</a> for transcribing and uploading these scripts, as well as <a
+                href="https://starmen.net/">Starmen.net</a> and <a
+                href="https://gamefaqs.gamespot.com/">GameFAQs</a> for continuing to host them. </p>
         <div class="side-by-side iframe-container">
-            <figure class="whitebg center-items"><img src="images/M1Cloud.png" /><figcaption>Earthbound:
-                    Beginnings Word Cloud</figcaption></figure>
-            <figure class="whitebg"><img src="images/M2Cloud.png" /><figcaption>Earthbound Word
+            <figure class="whitebg center-items zoom"><img src="images/M1Cloud.png" /><figcaption>Mother
+                    1 Word Cloud</figcaption></figure>
+            <figure class="whitebg zoom"><img src="images/M2Cloud.png"/><figcaption>Mother 2 Word
                     Cloud</figcaption></figure>
-            <figure class="whitebg"><img src="images/M3Cloud.png" /><figcaption>Mother 3 Word
+            <figure class="whitebg zoom"><img src="images/M3Cloud.png"/><figcaption>Mother 3 Word
                     Cloud</figcaption></figure>
         </div>
-        <p>First, it's important to note how formatting affects this analysis. Earthbound:
-            Beginnings' (EB:B) script was directly scraped from the game, slightly edited to add
-            character names instead of coding logic, but it's the most "raw" of all the scripts.
-            Earthbound's (EB) script is similar in that it's directly pulled from the game with
-            little direct context beyond the current speaker, but it's formatted in a far more
-            readable way. Mother 3 (M3), meanwhile, is written closer to a play, with stage
-            instructions inflating the word count to more than both Earthbounds combined. While many
-            of the trends found in these games still occur without these differences in formatting,
-            it's just something to keep in mind for the analysis.</p>
+        <p>These are the word clouds for each game. Definitely some interesting trends to
+            analyze!</p>
+        <p>First, however, I believe it's important to note how formatting affects this analysis.
+            Mother 1's (M1) script was directly scraped from the game, slightly edited to add
+            character names instead of coding logic, but it's the most "raw" of all the scripts. It
+            also does not try to give context to what's happening during or around the dialogue, as
+            that would be shown in-game and not directly told.</p>
+        <p>Mother 2's (M2) script is similar in that it's directly pulled from the game with little
+            direct context beyond the current speaker, but it's formatted in a far more readable
+            way. It also removes most unimportant dialogue, ignoring NPCs with only a single line in
+            favor of only documenting the important, story progressing ones. Similar to Mother 1, it
+            forgoes describing the current setting or actions characters take, only caring about
+            written dialogue.</p>
+        <p>Mother 3 (M3), meanwhile, is written closer to a play, with stage instructions inflating
+            the word count to more than both Mother 1 and 2 combined. This script was also
+            translated by a single person (and a fan at that!), as opposed to Mother 1 and 2 which
+            were pulled from the official translations made by workers at Nintendo. This also means
+            it's slightly different from the playable fan translation, being a bit less localized
+            (aka, it reads more like a direct translation instead of being adapted for cultural
+            differences), and it features a few character names in anglicized japanese instead of
+            their more thematic localized ones.</p>
+        <p> </p>
         <p>Now, of these three word clouds, I find it interesting how large and important Ness and
             Lucas are in their respective games, while Ninten is brought up far less. Despite
-            containing a roughly similar number of words (18k for EB:B, 17k for EB), Ninten is only
+            containing a roughly similar number of words (18k for M1, 17k for M2), Ninten is only
             brought up by name 46 times. Ness, by contrast, is directly mentioned 164 times, being
             the most frequent word in the corpus. This implies Ness is a far more important
             character on an inherent level compared to Ninten, who would occupy a role closer to a
@@ -54,15 +82,36 @@
             throughout the Mother 3 script, showing just how important they are to the story of that
             game.</p>
         <div class="side-by-side iframe-container">
-            <figure class="whitebg"><img src="images/nintentrends.JPG" class="scalefreq" /><figcaption>Usage of Ninten in the EB:B script</figcaption></figure>
-            <figure class="whitebg"><img src="images/nesstrends.JPG" class="scalefreq"/><figcaption>Usage of Ness in the EB script</figcaption></figure>
-            <figure class="whitebg"><img src="images/lucastrends.JPG" class="scalefreq"/><figcaption>Usage of Lucas in the M3 script</figcaption></figure>
+            <figure class="whitebg"><img src="images/nintentrends.JPG" class="scalefreq"
+                     /><figcaption>Usage of Ninten in the M1 script</figcaption></figure>
+            <figure class="whitebg"><img src="images/nesstrends.JPG" class="scalefreq"
+                     /><figcaption>Usage of Ness in the M2 script</figcaption></figure>
+            <figure class="whitebg"><img src="images/lucastrends.JPG" class="scalefreq"
+                     /><figcaption>Usage of Lucas in the M3 script</figcaption></figure>
         </div>
-        <p>From these graphs, you can see how Ninten and Ness are generally more concentrated near the beginning and end of their scripts, being directly named more as
-        the story is building up and reaching it's climax, while Lucas is less important early on, before becoming a central character around 1/3 of the way through.</p>
+        <p>From these graphs, you can see how Ninten and Ness are generally more concentrated near
+            the beginning and end of their scripts, being directly named more as the story is
+            building up and reaching it's climax, while Lucas is less important early on (especially
+            when he's not mentioned at all before the first spike, likely due to Chapter 3 focusing
+            on entirely different characters), before eventually becoming a central character around
+            1/3 of the way through.</p>
+        <p>I also find the prevalence of "yes" in M1 and M2 fascinating, as it really demonstrates how formatting affects these games.
+        Since they're direct text dumps, the player is given the option many times throughout the game to agree or disagree with something,
+        usually when it's gameplay related. Since M3 is formatted closer to a play, however, it can use alternate wording and only
+        present the choice for truly important moments, making it a far less frequent word in that case.</p>
+        <div class="side-by-side iframe-container">
+            <figure class="whitebg zoom"><img src="images/ebbngram3.JPG" /><figcaption>M1 N-Gram Size 3
+                </figcaption></figure>
+            <figure class="whitebg zoom"><img src="images/ebngram3.JPG" /><figcaption>M2 N-Gram Size
+                    3</figcaption></figure>
+            <figure class="whitebg zoom"><img src="images/m3ngram3.JPG" /><figcaption>M3 N-Gram Size
+                    3</figcaption></figure>
+        </div>
+        <p>From the size 3 N-Grams, we can see a few interesting phrases in each game's top 20.</p>
+        <p>Both M1 and M2 have phrases along the lines of "yes if no" or "yes no no", both of which are representing dialogue options.
+        Since they're text dumps, they need to specify each outcome of a yes/no option, and they both have consistent ways of doing this
+        that the program catches. M3, being formatted differently, does not run into this problem.</p>
         
-        
-        <h3>TODO: analyse n-grams, pics taken for all 3 scripts.</h3>
         <!--<img class="scale15" src="images/mr-saturn.gif" />-->
     </body>
 </html>
