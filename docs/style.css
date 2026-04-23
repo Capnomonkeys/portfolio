@@ -14,7 +14,18 @@ body#corpora
     margin-right: 10em;
 }
 
-
+h1.splash
+{
+    color: yellow;
+    font-size: 80px;
+    transform: rotate(-15deg);
+    text-align: right;
+    vertical-align: bottom;
+    position: relative;
+    top: -370px;
+    left: -100px;
+    transition: transform 2s;
+}
 figure{
     
 }
