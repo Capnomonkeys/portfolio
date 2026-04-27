@@ -17,15 +17,23 @@ body#corpora
 h1.splash
 {
     color: yellow;
-    font-size: 80px;
-    transform: rotate(-15deg);
+    font-size: 70px;
+
     text-align: right;
     vertical-align: bottom;
     position: relative;
     top: -370px;
     left: -100px;
     transition: transform 2s;
+    animation: pulse 2s infinite ease-in-out;
 }
+@keyframes pulse
+{
+    0% {transform: rotate(-15deg) scale(1);}
+    50% {transform: rotate(-15deg) scale(1.05);}
+    100% {transform: rotate(-15deg) scale(1);}
+}
+
 figure{
     
 }
