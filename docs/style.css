@@ -17,7 +17,7 @@ body#corpora
 h1.splash
 {
     color: yellow;
-    font-size: 70px;
+    font-size: 60px;
 
     text-align: right;
     vertical-align: bottom;
@@ -29,9 +29,9 @@ h1.splash
 }
 @keyframes pulse
 {
-    0% {transform: rotate(-15deg) scale(1);}
-    50% {transform: rotate(-15deg) scale(1.05);}
-    100% {transform: rotate(-15deg) scale(1);}
+    0% {transform: rotate(-14deg) scale(1);}
+    50% {transform: rotate(-14deg) scale(1.05);}
+    100% {transform: rotate(-14deg) scale(1);}
 }
 
 figure{
