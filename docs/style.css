@@ -82,17 +82,29 @@ img {
     width: 59%;
     max-width: 500px;
 }
-.zoom
+.zoom2
 {
     transition: transform .2s;
     /*width: 90%;
     height: auto;
     max-width: 1500px;*/
 }
-.zoom:hover
+.zoom2:hover
 {
     transform: scale(2);
 }
+.zoom3
+{
+    transition: transform .2s;
+    /*width: 90%;
+    height: auto;
+    max-width: 1500px;*/
+}
+.zoom3:hover
+{
+    transform: scale(3);
+}
+
 
 ul.resume{
     list-style-type:circle;
@@ -118,6 +130,11 @@ img.scalefreq
 {
     height: 50px;
     width: auto;
+}
+img.scalefloor
+{
+    width: 2888px;
+    height: 388px;
 }
 
 nav{
